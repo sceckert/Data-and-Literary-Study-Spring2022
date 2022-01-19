@@ -9,9 +9,9 @@ permalink: /policies/
 
 
 + W.E. B. Du Bois, *The Souls of Black Folk* , ed. by Brent Hayes(Oxford World's Classics, 2009), ISBN: 9780199555833
-+ Virginia Woolf, *A Room of One’s Own** (Mariner Books), ISBN: 9780156787338 
++ Virginia Woolf, *A Room of One’s Own* (Mariner Books), ISBN: 9780156787338 
 + Jane Austen, *Northanger Abbey, Lady Susan, The Watsons, Sanditon*, edited by Claudia Johnson(Oxford World's Classics, 2009), ISBN: 9780199535545
-+ Arthur Conan Doyle, *The Adventures of Sherlock Holmes**, ed. by Richard Lancelyn Green (Oxford World’s Clasics), ISBN: ‎ 978-0199536955
++ Arthur Conan Doyle, *The Adventures of Sherlock Holmes*, ed. by Richard Lancelyn Green (Oxford World’s Clasics), ISBN: ‎ 978-0199536955
 
 All the other readings will be available online through either our course website or Canvas.
 
