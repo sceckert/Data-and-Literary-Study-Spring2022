@@ -1,0 +1,14 @@
+# Requirements for the demo notebooks
+# Useful for MyBinder configuration
+pandas
+numpy
+matplotlib
+jupyter-book
+jupyterlab_launcher>=0.5.0
+seaborn
+little_mallet_wrapper
+altair
+bokeh
+bs4
+folium
+geopy
