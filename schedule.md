@@ -15,8 +15,10 @@ permalink: /schedule/
 
 #### Wed 1/26: Histories of Literary Studies 
 - Read: Virginia Woolf, *A Room of One’s One* (1929) [111 pgs]
-- Optional reading: James F. English and Ted Underwood, “Shifting Scales: Between Literature and Social Science,” *Modern Language Quarterly* 77, no. 3 (September 1, 2016): 277–95. [Canvas PDF]
-- Optional reading: Antoinette Burton, “Archive Stories: Gender in the Making of Imperial and Colonial Histories,” in *Gender and Empire, ed. Philippa Levine* (2004) [Canvas PDF]
+- Optional reading: 
+	- James F. English and Ted Underwood, “Shifting Scales: Between Literature and Social Science,” *Modern Language Quarterly* 77, no. 3 (September 1, 2016): 277–95. [Canvas PDF]
+	- Antoinette Burton, “Archive Stories: Gender in the Making of Imperial and Colonial Histories,” in *Gender and Empire, ed. Philippa Levine* (2004) [Canvas PDF]
+- Due: Research Exercise 1: Introduction to programming
 
 
 ## Week 2: Sociology of Forms
@@ -28,6 +30,7 @@ permalink: /schedule/
 #### Wed 2/2
 
 - Read: Ted Underwood, Preface and “Do We Understand the Outlines of Literary History,” *Distant Horizons: Digital Evidence and Literary Change* (2019) [Canvas PDF]
+- Due: Research Exercise 2
 - Practicum: Getting set up with computational analysis
 
 ## Week 3: Authors and the Literary Field
@@ -39,8 +42,10 @@ permalink: /schedule/
 
 #### Wed 2/9
 - Read: Gaye Tuchman, "Gender Segregation and the Politics of Culture," and Appendices A, B, C from *Edging Women Out: Victorian Novelists, Publishers and Social Change* (1988) [Canvas PDF]
--  Optional reading: J. F. Burrows, Introduction and “A Set of Pronouns,” *Computation Into Criticism: A Study of Jane Austen's Novels and an Experiment in Method* (1987) [Canvas PDF]
--  Optional reading: Marilyn Butler, “Jane Austen’s Word Process,” *London Review of Books*, June 25, 1987 [review of Burrows’ book] [Canvas PDF]
+-  Optional reading: 
+	-  J. F. Burrows, Introduction and “A Set of Pronouns,” *Computation Into Criticism: A Study of Jane Austen's Novels and an Experiment in Method* (1987) [Canvas PDF]
+	-  Marilyn Butler, “Jane Austen’s Word Process,” *London Review of Books*, June 25, 1987 [review of Burrows’ book] [Canvas PDF]
+- Due: Research Exercise 3
 - Practicum: Counting and descriptive statistics
 
 
@@ -49,11 +54,12 @@ permalink: /schedule/
 #### Mon 2/14
 - Read: Wilkie Collins, “The Unknown Public” Household Words (1858) [Canvas PDF]
 - Read: Q.D. Leavis, Preface, Introduction, and Chapter 2 from *Fiction and the Reading Public* (1939) [Canvas PDF]
-- Optional reading: Jonathan Rose, three short chapters: “A History of Audiences,” “Welsh Miner’s Libraries,” and “A Mongrel Library”*The Intellectual Life of the British Working Class* (2001)  [Canvas PDF]
+- Optional reading: 
+	- Jonathan Rose, three short chapters: “A History of Audiences,” “Welsh Miner’s Libraries,” and “A Mongrel Library”*The Intellectual Life of the British Working Class* (2001)  [Canvas PDF]
 
 #### Wed 2/16
 - Read: Caroline Bressey, “Black Victorians and Anti-Caste: Mapping the Geographies of ‘Missing’ Readers,” in *Media and Print Culture Consumption in Nineteenth-Century Britain: The Victorian Reading Experience*, ed. Paul Raphael Rooney and Anna Gasperini, (2016),pp 75–92. [Canvas PDF]
-- Research Exercise: HathiTrust, Dickens Journals Online (Browse full issue of Household words from 1858); Wellesley Index of Victorian Periodicals
+- Due: Research Exercise 4: HathiTrust, Dickens Journals Online (Browse full issue of Household words from 1858); Wellesley Index of Victorian Periodicals
 - Practicum: Working with bibliographic data
 
 
@@ -65,6 +71,7 @@ permalink: /schedule/
 
 #### Wed 2/23
 - Read: Rachel Buurma and Laura Heffernan, Chapter 1: *The Teaching Archive: A New History for Literary Study** (2020)
+- Due: Research Exercise 5
 - Practicum: Open Syllabus Project: charting the *The Souls of Black Folk* on syllabi; introduction to CSVs
 
 ## Week 6: Canons, Anthology
@@ -78,6 +85,7 @@ permalink: /schedule/
 - Read: Melanie Walsh and Maria Antoniak, [“The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,”](https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism) *Journal of Cultural  Analytics* 6, no. 2 (April 20, 2021)
 - Read:  Richard Jean So, "Introduction" and "1. Production: On White Publishing,"  from *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction** (2021)
 - Optional reading: José Eduardo González et al., [“Measuring Canonicity: Graduate Reading Lists in Departments of Hispanic Studies,”](https://culturalanalytics.org/article/21599-measuring-canonicity-graduate-read-ing-lists-in-departments-of-hispanic-studies) Journal of Cultural Analytics 6, no. 1 (March 19, 2021) 
+- Due: Research Exercise 6
 - Practicum: Norton Anthologies of English Literature (see packet of Norton tables of contents provided by instructor) tables of contents as data; quantifying the canon
 
 ## SPRING RECESS
@@ -93,7 +101,8 @@ permalink: /schedule/
 
 #### Wed 3/16
 - FIELD TRIP: Practicum: The Morris Parish Collection of Victorian Literature
-- Consult: finding aids
+- Read: Parish collection finding aids 
+- Due: Research Exercise 7
 
 ## Week 8: Digital Archives and Imperialism
 
@@ -103,9 +112,10 @@ permalink: /schedule/
 
 #### Wed 3/30
 - Read: David A. Smith, Ryan Cordell, and Elizabeth Maddock Dillon, “Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers” (2013)
-- Stephanie Yee and Tony Chu, “A Visual Introduction to Machine Learning” (2015)
-- Read: Victor Powell, Conditional probability explained visually. 
-- Explore: The Arbital Guide to the Bayes Rule
+- Stephanie Yee and Tony Chu, [“A Visual Introduction to Machine Learning”](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) (2015)
+- Read: Victor Powell, ["Conditional probability explained visually."](https://setosa.io/ev/conditional-probability/) 
+- Explore: [The Arbital Guide to the Bayes Rule](https://arbital.com/p/bayes_rule/?l=1zq)
+- Due: Research Exercise 8
 - Practicum: Modeling text-reuse, text classification
 
 
@@ -117,6 +127,7 @@ permalink: /schedule/
 #### Wed 4/6  
 - Read: David Bamman, "Born-Literary Natural Language Processing," Debates in Digital Humanities (2020
 - Please read [the documentation for David Bamman’s BookNLP]()
+- Due: Research Exercise 9
 - Practicum: supervised machine learning; NLTK and Named Entity Recognition
 
 

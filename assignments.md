@@ -21,7 +21,7 @@ See the [Course Policies](https://sceckert.github.io/IntroDHSpring2021/policies)
 
 ### Weekly Readings, Assignments and Coding Exercises 20% 
 
-Over the course of the semester, you will have two main weekly responsibilities: 1) you will complete weekly reading discussion questions and **post them to Canvas** (Tuesdays), and 2) you will complete weekly homework and **email** them to me (Thursdays). Homework  will vary depending on the week––some week will be more focused on programming, others on written reflection. 
+Over the course of the semester, you will have two main weekly responsibilities: 1) you will complete weekly reading discussion questions and **post them to Canvas** (Mondays), and 2) you will complete weekly research exercises and **email** them to me (Wednesdays).   Your research exercises will vary depending on the week––some week will be more focused more programming, others, on written reflection. 
 
 Your short weekly discussion question should be posted to that week's Canvas Discussion board by Tuesday at 9am before class. These should be short posts designed to get at key concepts or arguments from the readings. I'll ask that you post 1-3 short questions about the reading(s) to our Canvas Discussion Board. These will be graded pass/fail.
 
