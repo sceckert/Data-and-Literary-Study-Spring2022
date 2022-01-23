@@ -19,7 +19,7 @@ Instructor: Dr. Sierra Eckert
 
 Email: sceckert@princeton.edu
  
-Office Hours: Tuesday 4pm-5pm, Wednesday 3:30-4:30pm, by appointment (see [Zoom link on course Canvas site](https://princeton.instructure.com/courses/2364/external_tools/290))
+Office Hours: TBD and by appointment (see [Zoom link on course Canvas site](https://princeton.instructure.com/courses/2364/external_tools/290))
 
 Course Website: [https://sceckert.github.io/Data-and-Literary-Study-Spring2022/](https://sceckert.github.io/Data-and-Literary-Study-Spring2022/)
 

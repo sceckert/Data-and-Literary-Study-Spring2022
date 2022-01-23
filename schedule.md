@@ -14,7 +14,7 @@ permalink: /schedule/
 - Short excerpt from Edith Rickert, *New Methods for the Study of Literature* (1927) [Canvas PDF](https://princeton.instructure.com/courses/6331/files/1189436?module_item_id=246937)
 
 #### Wed 1/26: Histories of Literary Studies 
-- Read: Virginia Woolf, *A Room of One’s One** (1929) [111 pgs]
+- Read: Virginia Woolf, *A Room of One’s One* (1929) [111 pgs]
 - Optional reading: James F. English and Ted Underwood, “Shifting Scales: Between Literature and Social Science,” *Modern Language Quarterly* 77, no. 3 (September 1, 2016): 277–95. [Canvas PDF]
 - Optional reading: Antoinette Burton, “Archive Stories: Gender in the Making of Imperial and Colonial Histories,” in *Gender and Empire, ed. Philippa Levine* (2004) [Canvas PDF]
 
