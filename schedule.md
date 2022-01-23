@@ -11,45 +11,48 @@ permalink: /schedule/
 
 #### Mon 1/24  What is the data of literary studies?
 
+- Short excerpt from Edith Rickert, *New Methods for the Study of Literature* (1927) [Canvas PDF](https://princeton.instructure.com/courses/6331/files/1189436?module_item_id=246937)
 
 #### Wed 1/26: Histories of Literary Studies 
 - Read: Virginia Woolf, *A Room of One’s One** (1929) [111 pgs]
+- Optional reading: James F. English and Ted Underwood, “Shifting Scales: Between Literature and Social Science,” *Modern Language Quarterly* 77, no. 3 (September 1, 2016): 277–95. [Canvas PDF]
+- Optional reading: Antoinette Burton, “Archive Stories: Gender in the Making of Imperial and Colonial Histories,” in *Gender and Empire, ed. Philippa Levine* (2004) [Canvas PDF]
 
 
 ## Week 2: Sociology of Forms
 
 #### Mon 1/31
-- Read: Bourdieu, from *The Rules of Art: Genesis and Structure of the Literary Field* (read the synopsis of Sentimental Education first) (1994)
-- Read: Raymond Williams, “Literature,” “Traditions, Institutions, and Formations,” “Structures of Feeling,” “The Sociology of Culture,” “Forms,” from *Marxism and Literature*  (1977)
+- Read: Bourdieu, "Appendix 1", "The Market for Symbolic Goods,"*The Rules of Art: Genesis and Structure of the Literary Field* (read the synopsis of Sentimental Education first) (1994) [[Canvas PDF - please only read required sections]](https://princeton.instructure.com/courses/6331/files/1189280?module_item_id=246939)
+- Read: Raymond Williams, “Literature,” “Traditions, Institutions, and Formations,” “Structures of Feeling,” “The Sociology of Culture,” “Forms,” from *Marxism and Literature*  (1977) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1189292?module_item_id=246938)
 	
 #### Wed 2/2
+
+- Read: Ted Underwood, Preface and “Do We Understand the Outlines of Literary History,” *Distant Horizons: Digital Evidence and Literary Change* (2019) [Canvas PDF]
 - Practicum: Getting set up with computational analysis
-- Read: Ted Underwood, “Do We Understand the Outlines of Literary History” (2019)
 
 ## Week 3: Authors and the Literary Field
 
 #### Mon 2/7 
 - Jane Austen, *Northanger Abbey* ([1803]; 1818)
-- Austen fiction through title pages
-- Deidre Lynch, excerpts from “At Home with Austen” [on the Austen industry]
+- Browse: facsimiles of Austen novel title pages [Canvas folder]
+- Deidre Lynch, excerpts from “At Home with Austen” [on the Austen industry] [Canvas PDF]
 
 #### Wed 2/9
-- Read: Gaye Tuchman, selections from *Edging Women Out: Victorian Novelists, Publishers and Social Change**; Appendices A, B, C
--  Optional: J. F. Burrows, Introduction and “A Set of Pronouns,” Computation Into Criticism: A Study of Jane Austen's Novels and an Experiment in Method (1987)
--  Optional: Marilyn Butler, “Jane Austen’s Word Process,” London Review of Books, June 25, 1987 [review of Burrows’ book]
-
+- Read: Gaye Tuchman, "Gender Segregation and the Politics of Culture," and Appendices A, B, C from *Edging Women Out: Victorian Novelists, Publishers and Social Change* (1988) [Canvas PDF]
+-  Optional reading: J. F. Burrows, Introduction and “A Set of Pronouns,” *Computation Into Criticism: A Study of Jane Austen's Novels and an Experiment in Method* (1987) [Canvas PDF]
+-  Optional reading: Marilyn Butler, “Jane Austen’s Word Process,” *London Review of Books*, June 25, 1987 [review of Burrows’ book] [Canvas PDF]
 - Practicum: Counting and descriptive statistics
 
 
 ## Week 4: Readers, Reception
 
 #### Mon 2/14
-- Wilkie Collins, “The Unknown Public” Household Words (1858)
-- Q.D. Leavis, *Fiction and the Reading Public* (1939)
-- Jonathan Rose, *The Intellectual Life of the British Working Class* (2001), selections: “A History of Audiences,” “Welsh Miner’s Libraries,” and “A Mongrel Library”
+- Read: Wilkie Collins, “The Unknown Public” Household Words (1858) [Canvas PDF]
+- Read: Q.D. Leavis, Preface, Introduction, and Chapter 2 from *Fiction and the Reading Public* (1939) [Canvas PDF]
+- Optional reading: Jonathan Rose, three short chapters: “A History of Audiences,” “Welsh Miner’s Libraries,” and “A Mongrel Library”*The Intellectual Life of the British Working Class* (2001)  [Canvas PDF]
 
 #### Wed 2/16
-- Caroline Bressey, “Black Victorians and Anti-Caste: Mapping the Geographies of ‘Missing’ Readers,” in Media and Print Culture Consumption in *Nineteenth-Century Britain: The Victorian Reading Experience*, ed. Paul Raphael Rooney and Anna Gasperini, (2016),pp 75–92.
+- Read: Caroline Bressey, “Black Victorians and Anti-Caste: Mapping the Geographies of ‘Missing’ Readers,” in *Media and Print Culture Consumption in Nineteenth-Century Britain: The Victorian Reading Experience*, ed. Paul Raphael Rooney and Anna Gasperini, (2016),pp 75–92. [Canvas PDF]
 - Research Exercise: HathiTrust, Dickens Journals Online (Browse full issue of Household words from 1858); Wellesley Index of Victorian Periodicals
 - Practicum: Working with bibliographic data
 
@@ -57,7 +60,7 @@ permalink: /schedule/
 ## Week 5 Canon, Syllabus
 #### Mon 2/21
 - Read: W.E.B. Du Bois, *The Souls of Black Folk* (1903)
-- Read Daniel Hack, “The Citational Soul of Black Folk: W.E.B. Du Bois,” in *Reaping Something New: African American Transformations of Victorian Literature** (2016)
+- Read Daniel Hack, “The Citational Soul of Black Folk: W.E.B. Du Bois,” in *Reaping Something New: African American Transformations of Victorian Literature* (2016) [Canvas PDF]
 - Practicum: Encoding Du Bois’s epigraphs
 
 #### Wed 2/23
@@ -67,15 +70,14 @@ permalink: /schedule/
 ## Week 6: Canons, Anthology
 
 #### Mon 2/28
-- Read: John Guillory, selections from *Cultural Capital: The Problem of Literary Canon Formation* (1993)
-- Read: Henry Louis Gates, “The Master’s Pieces: On Canon Formation and the African -American Tradition,” in *Loose Canons: Notes on the Culture Wars*  (1992)
-- Read: Toni Morrison, “Unspeakable Things Unspoken: The Afro-American Presence in American Literature” (1988)
+- Read: John Guillory, "Canonical and Noncanonical," in*Cultural Capital: The Problem of Literary Canon Formation* (1993) [Canvas PDF]
+- Read: Henry Louis Gates, “The Master’s Pieces: On Canon Formation and the African -American Tradition,” in *Loose Canons: Notes on the Culture Wars*  (1992) [Canvas PDF]
+- Read: Toni Morrison, “Unspeakable Things Unspoken: The Afro-American Presence in American Literature” (1988) [Canvas PDF]
 
 #### Wed 3/2
-- Read: Melanie Walsh and Maria Antoniak, “The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,” *Journal of Cultural 
-Analytics* 6, no. 2 (April 20, 2021)
+- Read: Melanie Walsh and Maria Antoniak, [“The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,”](https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism) *Journal of Cultural  Analytics* 6, no. 2 (April 20, 2021)
 - Read:  Richard Jean So, "Introduction" and "1. Production: On White Publishing,"  from *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction** (2021)
-- Optional: José Eduardo González et al., “Measuring Canonicity: Graduate Read¬ing Lists in Departments of Hispanic Studies,” Journal of Cultural Analytics 6, no. 1 (March 19, 2021) 
+- Optional reading: José Eduardo González et al., [“Measuring Canonicity: Graduate Reading Lists in Departments of Hispanic Studies,”](https://culturalanalytics.org/article/21599-measuring-canonicity-graduate-read-ing-lists-in-departments-of-hispanic-studies) Journal of Cultural Analytics 6, no. 1 (March 19, 2021) 
 - Practicum: Norton Anthologies of English Literature (see packet of Norton tables of contents provided by instructor) tables of contents as data; quantifying the canon
 
 ## SPRING RECESS
@@ -85,8 +87,8 @@ Analytics* 6, no. 2 (April 20, 2021)
 ## Week 7: Libraries, Archives, Collections
 #### Mon 3/14
 - Read: Arthur Conan Doyle, *The Adventures of Sherlock Holmes* (1892)
-- Read: Priya Joshi, In Another Country: Colonialism, Culture, and the English Novel in India (2002)
-- Browse: Shakespeare and Company Project and project dataset
+- Read: Priya Joshi, Chapter 1 "The Poetical Economy of Consumption" and Chapter 2, "The Circulation of Fiction in Indian Libraries, ca. 1835-1901"*In Another Country: Colonialism, Culture, and the English Novel in India* (2002) [Canvas PDF]
+- Browse: [Shakespeare and Company Project](https://shakespeareandco.princeton.edu/) and project [dataset](https://shakespeareandco.princeton.edu/about/data/)
 - Library catalog records for the Silvia Beach Papers
 
 #### Wed 3/16
@@ -96,14 +98,14 @@ Analytics* 6, no. 2 (April 20, 2021)
 ## Week 8: Digital Archives and Imperialism
 
 #### Mon 3/28
-- Read: Katherine Bode, “Fictional Systems: Network Analysis and Syndication Networks,” in *A World of Fiction: Digital Collections and the Future of Literary Histor*y (2018)
-- Read: Roopika Risam, “Colonial Violence and the Postcolonial Digital Archive,” in *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy* (2018) 
+- Read: Katherine Bode, [“Fictional Systems: Network Analysis and Syndication Networks,”](https://www-jstor-org.ezproxy.princeton.edu/stable/j.ctvdtpj1d.9?seq=1#metadata_info_tab_contents) in *A World of Fiction: Digital Collections and the Future of Literary History* (2018)
+- Read: Roopika Risam, “Colonial Violence and the Postcolonial Digital Archive,” in *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy* (2018) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1189973?module_item_id=247197)
 
 #### Wed 3/30
 - Read: David A. Smith, Ryan Cordell, and Elizabeth Maddock Dillon, “Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers” (2013)
 - Stephanie Yee and Tony Chu, “A Visual Introduction to Machine Learning” (2015)
-- Victor Powell, Conditional probability explained visually. 
-- The Arbital Guide to the Bayes Rule
+- Read: Victor Powell, Conditional probability explained visually. 
+- Explore: The Arbital Guide to the Bayes Rule
 - Practicum: Modeling text-reuse, text classification
 
 
