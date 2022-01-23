@@ -13,7 +13,8 @@ permalink: /schedule/
 
 
 #### Wed 1/26: Histories of Literary Studies 
-- Virginia Woolf, *A Room of One’s One** (1929) [111 pgs]
+- Read: Virginia Woolf, *A Room of One’s One** (1929) [111 pgs]
+
 
 ## Week 2: Sociology of Forms
 
@@ -22,7 +23,8 @@ permalink: /schedule/
 - Read: Raymond Williams, “Literature,” “Traditions, Institutions, and Formations,” “Structures of Feeling,” “The Sociology of Culture,” “Forms,” from *Marxism and Literature*  (1977)
 	
 #### Wed 2/2
-- Practicum: Getting set up with computational analysis, Underwood “Do We Understand the Outlines of Literary History” (2019)
+- Practicum: Getting set up with computational analysis
+- Read: Ted Underwood, “Do We Understand the Outlines of Literary History” (2019)
 
 ## Week 3: Authors and the Literary Field
 
@@ -32,7 +34,10 @@ permalink: /schedule/
 - Deidre Lynch, excerpts from “At Home with Austen” [on the Austen industry]
 
 #### Wed 2/9
-- Gaye Tuchman, selections from Edging Women Out: Victorian Novelists, Publishers and Social Change; Appendices A, B, C
+- Read: Gaye Tuchman, selections from *Edging Women Out: Victorian Novelists, Publishers and Social Change**; Appendices A, B, C
+-  Optional: J. F. Burrows, Introduction and “A Set of Pronouns,” Computation Into Criticism: A Study of Jane Austen's Novels and an Experiment in Method (1987)
+-  Optional: Marilyn Butler, “Jane Austen’s Word Process,” London Review of Books, June 25, 1987 [review of Burrows’ book]
+
 - Practicum: Counting and descriptive statistics
 
 
@@ -51,23 +56,26 @@ permalink: /schedule/
 
 ## Week 5 Canon, Syllabus
 #### Mon 2/21
-- W.E.B. Du Bois, The Souls of Black Folk (1903)
-- Daniel Hack, “The Citational Soul of Black Folk: W.E.B. Du Bois,” in Reaping Something New: African American Transformations of Victorian Literature (2016)
+- Read: W.E.B. Du Bois, *The Souls of Black Folk* (1903)
+- Read Daniel Hack, “The Citational Soul of Black Folk: W.E.B. Du Bois,” in *Reaping Something New: African American Transformations of Victorian Literature** (2016)
 - Practicum: Encoding Du Bois’s epigraphs
 
 #### Wed 2/23
-- Rachel Buurma and Laura Heffernan, Chapter 1: *The Teaching Archive: A New History for Literary Study** (2020)
+- Read: Rachel Buurma and Laura Heffernan, Chapter 1: *The Teaching Archive: A New History for Literary Study** (2020)
 - Practicum: Open Syllabus Project: charting the *The Souls of Black Folk* on syllabi; introduction to CSVs
 
 ## Week 6: Canons, Anthology
 
 #### Mon 2/28
-- John Guillory, selections from Cultural Capital: The Problem of Literary Canon Formation (1993)
-- Henry Louis Gates, “The Master’s Pieces: On Canon Formation and the African -American Tradition,” in *Loose Canons: Notes on the Culture Wars*  (1992)
-- Toni Morrison, “Unspeakable Things Unspoken: The Afro-American Presence in American Literature” (1988)
+- Read: John Guillory, selections from *Cultural Capital: The Problem of Literary Canon Formation* (1993)
+- Read: Henry Louis Gates, “The Master’s Pieces: On Canon Formation and the African -American Tradition,” in *Loose Canons: Notes on the Culture Wars*  (1992)
+- Read: Toni Morrison, “Unspeakable Things Unspoken: The Afro-American Presence in American Literature” (1988)
 
 #### Wed 3/2
-- Melanie Walsh and Maria Antoniak, “The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,” *Journal of Cultural Analytics* 6, no. 2 (April 20, 2021)
+- Read: Melanie Walsh and Maria Antoniak, “The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,” *Journal of Cultural 
+Analytics* 6, no. 2 (April 20, 2021)
+- Read:  Richard Jean So, "Introduction" and "1. Production: On White Publishing,"  from *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction** (2021)
+- Optional: José Eduardo González et al., “Measuring Canonicity: Graduate Read¬ing Lists in Departments of Hispanic Studies,” Journal of Cultural Analytics 6, no. 1 (March 19, 2021) 
 - Practicum: Norton Anthologies of English Literature (see packet of Norton tables of contents provided by instructor) tables of contents as data; quantifying the canon
 
 ## SPRING RECESS
@@ -76,9 +84,9 @@ permalink: /schedule/
 
 ## Week 7: Libraries, Archives, Collections
 #### Mon 3/14
-- Arthur Conan Doyle, *The Adventures of Sherlock Holmes* (1892)
-- Priya Joshi, In Another Country: Colonialism, Culture, and the English Novel in India (2002)
-- Shakespeare and Company Project and project dataset
+- Read: Arthur Conan Doyle, *The Adventures of Sherlock Holmes* (1892)
+- Read: Priya Joshi, In Another Country: Colonialism, Culture, and the English Novel in India (2002)
+- Browse: Shakespeare and Company Project and project dataset
 - Library catalog records for the Silvia Beach Papers
 
 #### Wed 3/16
@@ -88,46 +96,50 @@ permalink: /schedule/
 ## Week 8: Digital Archives and Imperialism
 
 #### Mon 3/28
-- Katherine Bode, “Fictional Systems: Network Analysis and Syndication Networks,” in A World of Fiction: Digital Collections and the Future of Literary History (2018)
-- Roopika Risam, “Colonial Violence and the Postcolonial Digital Archive,” in *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy* (2018) 
+- Read: Katherine Bode, “Fictional Systems: Network Analysis and Syndication Networks,” in *A World of Fiction: Digital Collections and the Future of Literary Histor*y (2018)
+- Read: Roopika Risam, “Colonial Violence and the Postcolonial Digital Archive,” in *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy* (2018) 
 
 #### Wed 3/30
-- David A. Smith, Ryan Cordell, and Elizabeth Maddock Dillon, “Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers” (2013)
+- Read: David A. Smith, Ryan Cordell, and Elizabeth Maddock Dillon, “Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers” (2013)
+- Stephanie Yee and Tony Chu, “A Visual Introduction to Machine Learning” (2015)
+- Victor Powell, Conditional probability explained visually. 
+- The Arbital Guide to the Bayes Rule
 - Practicum: Modeling text-reuse, text classification
 
 
 ## Week 9: Novels and Social Space
 #### Mon 4/4 
-- David K. Elson, Nicholas Dames, and Kathleen R. McKeown, “Extracting Social Networks from Literary Fiction,” in *Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics*, ACL ’10 (Stroudsburg, PA, USA: Association for Computational Linguistics, 2010), 138–47, 
-- Matthew Wilkens, “The Geographic Imagination of Civil War-Era American Fiction,” *American Literary History* 25, no. 4 (December 1, 2013): 803–40, 
+- Read: David K. Elson, Nicholas Dames, and Kathleen R. McKeown, “Extracting Social Networks from Literary Fiction,” in *Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics*, ACL ’10 (Stroudsburg, PA, USA: Association for Computational Linguistics, 2010), 138–47, 
+- Read: Matthew Wilkens, “The Geographic Imagination of Civil War-Era American Fiction,” *American Literary History* 25, no. 4 (December 1, 2013): 803–40, 
 
 #### Wed 4/6  
+- Read: David Bamman, "Born-Literary Natural Language Processing," Debates in Digital Humanities (2020
+- Please read [the documentation for David Bamman’s BookNLP]()
 - Practicum: supervised machine learning; NLTK and Named Entity Recognition
 
 
 ## Week 10: Machine Reading the History of Literary Studies
 #### Mon 4/11 
-•	David Blei, “Probabilistic Topic Modeling”
-•	Andrew Goldstone and Ted Underwood, “What can topic models of PMLA teach us about the history of literary scholarship?” ARCADE. (2012) 
-•	The “Middlematch” project
+- Read: David Blei, “Probabilistic Topic Modeling” (2012)
+- Read: Andrew Goldstone and Ted Underwood, “What can topic models of PMLA teach us about the history of literary scholarship?” *ARCADE*. (2012) 
+- The “Middlematch” project
 
 DUE: Final Project Proposal
 
 #### Wed 4/13 
-•	Miriam Posner, “Very basic strategies for interpreting results from the Topic Modeling Tool” (2012)
-•	Lisa Rhody, “Topic Modeling and Figurative Language” (2012)
-•	Practicum: Topic modeling and unsupervised machine learning
+- Read: Miriam Posner, “Very basic strategies for interpreting results from the Topic Modeling Tool” (2012)
+- Read: Lisa Rhody, “Topic Modeling and Figurative Language” (2012)
+- Practicum: Topic modeling and unsupervised machine learning
 
 ## Week 11: Visualizing Literary Data
 #### Mon 4/18 
-•	Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings”
-•	Anne DeWitt, “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press” (2015)
+- Read: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings” (2014)
+- Read: Anne DeWitt, “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press” (2015)
 
 #### Mon 4/20 
-- Practicum: Network visualizations in Python and CytoscapeRichard Jean So, selections from Redlining Culture: A Data History of Racial Inequality and Postwar Fiction (2021)
+- Practicum: Network visualizations in Python and Cytoscape 
 
-
-•	FINAL PROJECT PRESENTATIONS
+-FINAL PROJECT PRESENTATIONS
 
 Final Project Due Dean’s Date (5/3)
 
