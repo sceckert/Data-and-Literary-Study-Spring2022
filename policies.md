@@ -24,6 +24,11 @@ As this is a discussion-based seminar, active participation is essential.  Part 
 
 Since this an exceptional academic year, if you find yourself struggling, please get in touch with me as soon as possible and we will try to work out accommodations.
 
+### COVID PROTOCOOL
+
+If you're feeling unwell, have been exposed to COVID, or test positive, please stay home! 
+
+We'll have a Zoom remote option. 
 
 ### CLASSROOM CULTURE
 
