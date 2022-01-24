@@ -148,11 +148,11 @@ DUE: Final Project Proposal
 #### Mon 4/18 
 - Read: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings” (2014)
 - Read: Anne DeWitt, “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press” (2015)
-
-#### Mon 4/20 
 - Practicum: Network visualizations in Python and Cytoscape 
 
--FINAL PROJECT PRESENTATIONS
+#### Mon 4/20 
+
+- FINAL PROJECT PRESENTATIONS
 
 Final Project Due Dean’s Date (5/3)
 
