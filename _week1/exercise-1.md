@@ -31,7 +31,7 @@ What *is* a command line? Many parts of your computer are designed as a "graphic
 
 - On a Mac, the command line interface is called "the Terminal." 
 - Navigate to "Applications" to a folder called "Utilities," then launch the Application called Terminal.  You should see the following:
-![image](images/Mac-terminal.png)
+![image](../_images/Mac-terminal.png)
 
 The prompt displays the name of your machine, followed by a $ or %, depending on your set-up. This prompt is where you enter commands.
 
@@ -55,13 +55,13 @@ Write down the commands you would input into the Terminal in order to do the fol
 2. ...then, tell me where I am
 3. Move from your directory to a directory one level down called "sample-directory" ...
 4. ...and then list the contents of that directory.
-5. Display all of contents of [the Project Gutenberg Australia copy of Woolf's *A Room of One's Own*](https://gutenberg.net.au/ebooks02/0200791.txt) (You'll have to first download the plain text file using the instructions in the "Interacting with Files" part of Baker and Milligan's tutorlial).
+5. Display all of contents of [the Project Gutenberg Australia copy of Woolf's *A Room of One's Own*](https://gutenberg.net.au/ebooks02/0200791.txt) (You'll have to first download the plain text file using the instructions in the "Interacting with Files" part of Baker and Milligan's tutorial).
 6. Display just the first 10 lines of that same file of Woolf's essay.
 7. Copy the text file of the address you have chosen to a new directory called "Data-and-Literary-Study" 
 8. Use the manual command to look up the commands "wc" and "grep"  
 	- Note:  in Window Powershell, these commands are slightly different than in the terminal: they are "help,"  "gc" and "findstr"), respectively.
 9. What sorts of things might the "wc" (or "gc" in Powershell) help you do? What sorts of things might the command "grep" allow you to do?
-10. Take a sneak peak at Wednesday's introduction of the command line sections ["Working with text files" ](https://github.com/sceckert/Data-and-Literary-Study-Spring20221/blob/main/_week1/command-line-cheat-sheet.md) and ["Analyzing text files"]() sections.  
+10. Take a sneak peak at Wednesday's introduction of the command line sections ["Working with text files" ](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week1/introduction-to-the-command-line.md#working-with-files-and-texts) and ["Analyzing text files"](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week1/introduction-to-the-command-line.md#analyzing-text-files) sections.  
 	- What command would you write to find all appearances of the words  "woman" and "women" and the lines they appear on) in Woolf's essay?
 
 ### 1.d Reflection
@@ -100,15 +100,15 @@ Launch Anaconda Navigator as you would any app.
 
 - For Mac OS, navigate to your "Applications" folder, then click on the Anaconda Navigator icon (or search "Anaconda Navigator" in Finder)
 
-![image](.../images/mac-menu.png)
+![image](../_images/mac-menu.png)
 
 - For Windows: Navigate to the Windows start menu. "Start" > "Anaconda4 (64-bit)"  >  "Anaconda Navigator" 
 
-![image](.../images/windows-menu.png)
+![image](../_images/windows-menu.png)
 
 You should see the following Anaconda Navigator menu:
 
-![image](.../images/anaconda-navigator.png)
+![image](../_images/anaconda-navigator.png)
 
 You did it! We'll go over using Anaconda as a Python environment in the next few sessions.
 
@@ -116,7 +116,7 @@ You did it! We'll go over using Anaconda as a Python environment in the next few
 
 We are going to be working with plain text files. While you can certainly use default text applications on your machines, such as Notepad (Windows) or TextEditor (Windows), it helps to have an editor better suited to handling text files that include some code. BBEDit and Atom are both good open-source text editors. Choose one to install: 
 
-- To download BBEDit, go to the download page: [https://www.barebones.com/products/bbedit/]index.html and select the free version
+- To download BBEDit, go to [the download page](https://www.barebones.com/products/bbedit/index.html) and select the free version
 - To download Attom, visit the download page, and then follow [the download instructions](https://flight-manual.atom.io/getting-started/sections/installing-atom/) for your operating system.
 
 <a name="myfootnote1">1</a>:  Why Python? One reason is that it's flexible and popular within digital humanities research. It popularity means that you're likely to find collaborators familiar with the tool, and, unlike some other slightly more boutique tools or programming language, Python has a dedicated community of users and developers, which helps to ensure that Python will be around in a few years. No tool or programming language or platform is perfect––this will be a running question we'll exploring in this course-– but it does help to pick a tool or a method to learn that will be around for the loner term and that will grow with you. Take a look at ["Which DH Tools Are Actually Used in Research?"](https://weltliteratur.net/dh-tools-used-in-research/) (Dec. 6, 2019), a study by Laure Barbot, Frank Fischer, Yoann Moranville and Ivan Pozdniakov, which looks at tools mentioned in the DH conferences, ADHO between 2015-2019
