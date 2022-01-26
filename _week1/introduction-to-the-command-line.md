@@ -81,7 +81,7 @@ echo """
 Hello, again! 
 Hi, again!
 Hey, again!
-Greetings (again) Intro DH!
+Greetings (again) Data & Literary Study Seminar!
 """ >> greetings.txt
 ````
 10. Check your file again with `cat greetings.txt`  What do we notice?
@@ -151,10 +151,10 @@ Instead of using the file flag (below), we can separate a list of key search ter
 
 **`gc [filename] | Select-String -Pattern "search term"`**: takes the `gc` command and pipes it to a command called `Select-String`, which searches for lines that include the search term. 
 
-1. Type `gc  greetings.txt | Select-String -Pattern "Intro DH"`
-2. Type `gc  greetings.txt | Select-String -Pattern "Intro DH" -AllMatches` 
+1. Type `gc  greetings.txt | Select-String -Pattern "Data"`
+2. Type `gc  greetings.txt | Select-String -Pattern "Data" -AllMatches` 
 	- The `-AllMatches` flag is one of many flags we can use to soup up our search. This makes sure that we catch any instances where our search term appears twice on a line
-2. Now try `gc  greetings.txt | Select-String -Pattern "Intro DH" -Context 1,1` 
+2. Now try `gc  greetings.txt | Select-String -Pattern "Data" -Context 1,1` 
 	- What just happened?
 	- The `-Context [number, number]` flag will give the number of lines before and after the line with the search term. Here, we said to display one line before and one line after our search term. This gives us the context (the 2 lines around a term). 
 
