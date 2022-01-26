@@ -53,39 +53,21 @@ Your directory structure should look like:
 ----------+practice
 ```
 4. `cd` into the directory called "practice" [**What should we type?**]
-5. Use a new command, called **`touch`** to create a new file called greetings.txt in workspace:
-` touch ../an_empty_file.txt` 
-[*NOTE: if you are using Windows, your slash will point the other way!*]
+5. In a browser Window, go to the URL for the Project Gutenberg version of *A Room of One's Own* (1929): [https://gutenberg.net.au/ebooks02/0200791.txt](https://gutenberg.net.au/ebooks02/0200791.txt) Right click on the page, and select "Save Page As.." and save the file as  ` woolf-a-room-of-ones-own.txt`  in your practice directory. 
+	- Alternatively, if you have the  "wget" command installed, you can (type `wget https://gutenberg.net.au/ebooks02/0200791.txt`) and then rename the file by typing `cp 0200791.txt woolf-a-room-of-ones-own.txt` See [Step 1 of  this Programming Historian tutorial](https://programminghistorian.org/en/lessons/automated-downloading-with-wget#step-one-installation) for more how to install `wget.`]  
 6. `cd`  back into "workspace." 
-7. Use `echo` and `>` to create a text file: 
-``` 
-echo """
-Hello! 
-Hi!
-Hey!
-Greetings, Data & Literary Study Seminar!
-""" > greetings.txt
-````
-8. `cat greetings.txt` our file to check inside
+7. `cat woolf-a-room-of-ones-own.txt` our file to check inside
+
+
 
 > ***TIPS & TRICKS Interlude***
 > 
-> Try typing `cat g` and hit `tab`. 
+> Try typing `cat w` and hit `tab`. 
 > What happens?  
 > Now try hitting the `Up Arrow`. 
 > What happens?
 
-9. Now try 
-``` 
-echo """
-Hello, again! 
-Hi, again!
-Hey, again!
-Greetings (again) Data & Literary Study Seminar!
-""" >> greetings.txt
-````
-10. Check your file again with `cat greetings.txt`  What do we notice?
-11. List the files we have in this directory using `ls`
+9. Now list the files we have in this directory using `ls`
 
 ---
 ---
@@ -95,18 +77,20 @@ Greetings (again) Data & Literary Study Seminar!
 
 All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
-1. Type `head -1 greetings.txt`  
-	- *For Windows*, type `gc greetings.txt -head 1`
-2. This command can be roughly parsed as "show me" (`head`) only the first line (`-1`) of my file "greetings.txt" (`greetings.txt`)
+1. Type `head -20 woolf-a-room-of-ones-own.txt`  
+	- *For Windows*, type `gc woolf-a-room-of-ones-own.txt -head 20`
+2. This command can be roughly parsed as "show me" (`head`) only the first 20 line (`-20`) of my file "woolf-a-room-of-ones-own.txt" (`woolf-a-room-of-ones-own.txt`)
 
+
+Let's pause for a minute: What is it that we're seeing? What does this tell us about the structure of the file? What implications might this have for any text analysis that we do?
 
 #### Count words, lines, and characters (For Macs) 
 
  **`wc`** is a command that allows you to count words and lines in a text file. It can be used with flags.
 
-1. Use  `wc -w greetings.txt` to count the number of words in `greetings.txt`.
-	-  In the statement above, `wc` is our verb, while the flag `-w` is our adverb and `greetings.txt`  is the object
-2. Use `wc -l` to count the number of lines in `greetings.txt`
+1. Use  `wc -w woolf-a-room-of-ones-own.txt` to count the number of words in `woolf-a-room-of-ones-own.txt`.
+	-  In the statement above, `wc` is our verb, while the flag `-w` is our adverb and `woolf-a-room-of-ones-own.txt`  is the object
+2. Use `wc -l` to count the number of lines in `woolf-a-room-of-ones-own.txt`
 
 ---
 
@@ -114,8 +98,8 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 **`gc [filename] | Measure-Object`** uses the command **`gc`** with the command **`Measure-Object`** allows you to count words and lines in a text file  (We'll explain that `|` in a minute!)
 
-1. Use `gc greetings.txt | Measure-Object -Word` to count the number of words in `greetings.txt`
-2. Now use the `-Line` flag with the command above count the number of lines in `greetings.txt`
+1. Use `gc woolf-a-room-of-ones-own.txt | Measure-Object -Word` to count the number of words in `woolf-a-room-of-ones-own.txt`
+2. Now use the `-Line` flag with the command above count the number of lines in `woolf-a-room-of-ones-own.txt`
 
 ---
 ---
@@ -127,10 +111,10 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 **`grep "search term" [filename]`**: allows you to search for a `"search term"` in a file output lines that match a search term or pattern
 
-1. Type `grep "Data" greetings.txt`
-2. Type `grep "Data" -n greetings.txt`
+1. Type `grep "Shakespeare" woolf-a-room-of-ones-own.txt`
+2. Type `grep "Shakespeare" -n woolf-a-room-of-ones-own.txt`
 	- The `-n` flag is one of many flags we can use to soup up our search. Here, this outputs the corresponding line numbers
-2. Now try `grep "Data" -B 1 -A 1 -n --color greetings.txt`
+2. Now try `grep "Shakespeare" -B 1 -A 1 -n --color woolf-a-room-of-ones-own.txt`
 	- What just happened?
 	- The `-B`  and `-A` flags will give the number of lines before (-B) or after (-A). Here, we said to display one line before and one line after our search term. This gives us the context (the 2 lines around a term). The `--color` flag highlighted our search term or search phrase.
 
@@ -139,7 +123,7 @@ What if we wanted to search for more than one term?
 
 Instead of using the file flag (below), we can separate a list of key search terms like this:
 
-1. Type: `grep "hi\|hey" -i --color -n  greetings.txt`
+1. Type: `grep "Shakespeare\|Austen" -i --color -n  woolf-a-room-of-ones-own.txt`
 2. Notice that we can add additional search terms using the `\|` symbol to separate them
 
 
@@ -151,10 +135,10 @@ Instead of using the file flag (below), we can separate a list of key search ter
 
 **`gc [filename] | Select-String -Pattern "search term"`**: takes the `gc` command and pipes it to a command called `Select-String`, which searches for lines that include the search term. 
 
-1. Type `gc  greetings.txt | Select-String -Pattern "Data"`
-2. Type `gc  greetings.txt | Select-String -Pattern "Data" -AllMatches` 
+1. Type `gc  woolf-a-room-of-ones-own.txt | Select-String -Pattern "Shakespeare"`
+2. Type `gc  woolf-a-room-of-ones-own.txt | Select-String -Pattern "Shakespeare" -AllMatches` 
 	- The `-AllMatches` flag is one of many flags we can use to soup up our search. This makes sure that we catch any instances where our search term appears twice on a line
-2. Now try `gc  greetings.txt | Select-String -Pattern "Data" -Context 1,1` 
+2. Now try `gc  woolf-a-room-of-ones-own.txt | Select-String -Pattern "Shakespeare" -Context 1,1` 
 	- What just happened?
 	- The `-Context [number, number]` flag will give the number of lines before and after the line with the search term. Here, we said to display one line before and one line after our search term. This gives us the context (the 2 lines around a term). 
 
@@ -162,7 +146,7 @@ What if we wanted to search for more than one term?
 
 We can separate a list of key search terms like this:
 
-1. Type: `gc greetings.txt | Select-String -Pattern "(hi)|(hey)"` 
+1. Type: `gc woolf-a-room-of-ones-own.txt | Select-String -Pattern "(Shakespeare)|(Shakespeare)"` 
 2. Notice that we can add additional search terms using the `|` symbol and parentheses to separate them
 
 
@@ -175,11 +159,11 @@ The command `|` is a pipe. It  takes the **output** of one command and passes it
 
 #### For Macs:
 
-1. Try `grep "Hello" greetings.txt  | wc -w`
+1. Try `grep "woman*" woolf-a-room-of-ones-own.txt  | wc -w`
 
 The character **`*`** is a wildcard. It tells the program to search for all file paths in the current working directory.
 
-2. Try `grep "Hello" *` 
+2. Try `grep "Shakespeare" *` 
 
 We've already seen the redirect (`>`) and append (`>>`) characters. 
 
@@ -190,11 +174,11 @@ We've already seen the redirect (`>`) and append (`>>`) characters.
 
 #### For Windows:
 
-1. Try `gc greetings.txt  | Select-String -Pattern "Hello" |  Measure-Object -Word`
+1. Try `gc woolf-a-room-of-ones-own.txt  | Select-String -Pattern "woman**" |  Measure-Object -Word`
 
 The character **`*`** is a wildcard. It tells the program to search for all file paths in the current working directory.
 
-2. Try `gc .\*.txt  | Select-String -Pattern "Hello" | Measure-Object -Word`
+2. Try `gc .\*.txt  | Select-String -Pattern "Shakespeare" | Measure-Object -Word`
 
 We've already seen the redirect (`>`) and append (`>>`) characters. 
 
