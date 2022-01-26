@@ -155,15 +155,24 @@ We can separate a list of key search terms like this:
 
 ### Pipes (`|`),  Wildcards (`*`), and Redirects (`>`)
 
-The command `|` is a pipe. It  takes the **output** of one command and passes it on as the input of another. It can be used to string together a series of commands.
+
 
 #### For Macs:
 
-1. Try `grep "woman*" woolf-a-room-of-ones-own.txt  | wc -w`
+The command `|` is a pipe. It  takes the **output** of one command and passes it on as the input of another. It can be used to string together a series of commands.
+
+1. Try `grep "woman" woolf-a-room-of-ones-own.txt  | wc -w`
+	- The above command  will search for all appearances of the word "woman", and then the `|` will pass the output along to the word count operator, to count the number of times the word "woman" appears in our file.
 
 The character **`*`** is a wildcard. It tells the program to search for all file paths in the current working directory.
 
 2. Try `grep "Shakespeare" *` 
+	- This will search for all appearances of the word "Shakespeare" in all file paths in the current working directory
+
+When the `*` character is in a string, it can serve as a wildcard for any symbol. 
+
+3. Try `grep "wom*n" *`
+	- This command will search all appearances of the words "woman", and "women" (and "womyn").
 
 We've already seen the redirect (`>`) and append (`>>`) characters. 
 
@@ -174,11 +183,22 @@ We've already seen the redirect (`>`) and append (`>>`) characters.
 
 #### For Windows:
 
-1. Try `gc woolf-a-room-of-ones-own.txt  | Select-String -Pattern "woman**" |  Measure-Object -Word`
+The command `|` is a pipe. It  takes the **output** of one command and passes it on as the input of another. It can be used to string together a series of commands.
+
+
+1. Try `gc woolf-a-room-of-ones-own.txt  | Select-String -Pattern "woman" |  Measure-Object -Word`
+	- The above command  will search for all appearances of the word "woman", and then the `|` will pass the output along to the word count operator, to count the number of times the word "woman" appears in our file.
 
 The character **`*`** is a wildcard. It tells the program to search for all file paths in the current working directory.
 
-2. Try `gc .\*.txt  | Select-String -Pattern "Shakespeare" | Measure-Object -Word`
+2. Try `gc .\*.txt  | Select-String -Pattern "Shakespeare" `
+	- This will search for all appearances of the word "Shakespeare" in all file paths in the current working directory
+
+When the `*` character is in a string, it can serve as a wildcard for any symbol. 
+
+3. Try `gc .\*.txt  | Select-String -Pattern "Shakespeare"` 
+	- This command will search all appearances of the words "woman", and "women" (and "womyn").
+
 
 We've already seen the redirect (`>`) and append (`>>`) characters. 
 
