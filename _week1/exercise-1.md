@@ -51,13 +51,13 @@ Complete Ian Milligan and James Baker's[ "Introduction to the Bash Command Line"
 
 Write down the commands you would input into the Terminal in order to do the following:
 
-1. Move from a directory three levels up from your current directory...
+1. Move to a directory three levels up from your current directory...
 2. ...then, tell me where I am
-3. Move from your directory to a directory one level down called "sample-directory" ...
+3. Move from your directory to a directory one level down called "sample-directory" ... (hint, you'll have to create that directory)
 4. ...and then list the contents of that directory.
 5. Display all of contents of [the Project Gutenberg Australia copy of Woolf's *A Room of One's Own*](https://gutenberg.net.au/ebooks02/0200791.txt) (You'll have to first download the plain text file using the instructions in the "Interacting with Files" part of Baker and Milligan's tutorial).
 6. Display just the first 10 lines of that same file of Woolf's essay.
-7. Copy the text file of the address you have chosen to a new directory called "Data-and-Literary-Study" 
+7. Copy the text file to a new directory called "Data-and-Literary-Study". 
 8. Use the manual command to look up the commands "wc" and "grep"  
 	- Note:  in Window Powershell, these commands are slightly different than in the terminal: they are "help,"  "gc" and "findstr"), respectively.
 9. What sorts of things might the "wc" (or "gc" in Powershell) help you do? What sorts of things might the command "grep" allow you to do?
