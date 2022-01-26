@@ -63,7 +63,7 @@ echo """
 Hello! 
 Hi!
 Hey!
-Greetings, Intro DH!
+Greetings, Data & Literary Study Seminar!
 """ > greetings.txt
 ````
 8. `cat greetings.txt` our file to check inside
@@ -127,10 +127,10 @@ All Unix commands have **a syntax: transitive verb -> adverb ->  object**
 
 **`grep "search term" [filename]`**: allows you to search for a `"search term"` in a file output lines that match a search term or pattern
 
-1. Type `grep "Intro DH" greetings.txt`
-2. Type `grep "Intro DH" -n greetings.txt`
+1. Type `grep "Data" greetings.txt`
+2. Type `grep "Data" -n greetings.txt`
 	- The `-n` flag is one of many flags we can use to soup up our search. Here, this outputs the corresponding line numbers
-2. Now try `grep "Intro DH" -B 1 -A 1 -n --color greetings.txt`
+2. Now try `grep "Data" -B 1 -A 1 -n --color greetings.txt`
 	- What just happened?
 	- The `-B`  and `-A` flags will give the number of lines before (-B) or after (-A). Here, we said to display one line before and one line after our search term. This gives us the context (the 2 lines around a term). The `--color` flag highlighted our search term or search phrase.
 
