@@ -25,7 +25,7 @@ permalink: /schedule/
 
 #### Mon 1/31: What is the "sociology of culture"?
 - Read: Raymond Williams, “Literature,” “Traditions, Institutions, and Formations,” “Structures of Feeling,” “The Sociology of Culture,” “Forms,” from *Marxism and Literature*  (1977) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1189292?module_item_id=246938)
-- Read: Pierre Bourdieu, "Appendix 1" (pages 35-36) and "The Market for Symbolic Goods," (pages 141-173)*The Rules of Art: Genesis and Structure of the Literary Field* (1994) [[Canvas PDF - please only read required sections ]](https://princeton.instructure.com/courses/6331/files/1189280?module_item_id=246939)
+- Read: Pierre Bourdieu, "Appendix 1" (pages 35-36), "Flaubert, Analyst of Flaubert" and "The Market for Symbolic Goods," (pages 141-173)*The Rules of Art: Genesis and Structure of the Literary Field* (1994) [[Canvas PDF - please only read required sections ]](https://princeton.instructure.com/courses/6331/files/1189280?module_item_id=246939)
 - Optional reading:
 	- Pages 214-218 of Robert Darnton, "Reading, Writing, and Publishing in Eighteenth-Century France: A Case Study in the Sociology of Literature" (1971) [Canvas PDF](https://princeton.instructure.com/courses/6331/files/1200736?module_item_id=251729)
 	
