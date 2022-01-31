@@ -31,7 +31,7 @@ permalink: /schedule/
 	
 #### Wed 2/2 The Data of Literary History
 
-- Read: Ted Underwood, Preface and “Do We Understand the Outlines of Literary History,” *Distant Horizons: Digital Evidence and Literary Change* (2019) [Canvas PDF]
+- Read: Ted Underwood, Preface and “Do We Understand the Outlines of Literary History,” *Distant Horizons: Digital Evidence and Literary Change* (2019) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1209951?module_item_id=253775)
 - Due: Research Exercise 2
 - Practicum: Getting set up with computational analysis
 
