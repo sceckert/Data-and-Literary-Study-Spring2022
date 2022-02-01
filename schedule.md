@@ -32,7 +32,7 @@ permalink: /schedule/
 #### Wed 2/2 The Data of Literary History
 
 - Read: Ted Underwood, Preface and “Do We Understand the Outlines of Literary History,” *Distant Horizons: Digital Evidence and Literary Change* (2019) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1209951?module_item_id=253775)
-- Due: Research Exercise 2
+- Due: [Research Exercise 2](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week2/research-exercise-2.ipynb) | [cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week2/research-exercise-2.ipynb)
 - Practicum: Getting set up with computational analysis
 
 ## Week 3: Authors and the Literary Field
