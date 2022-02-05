@@ -41,6 +41,7 @@ permalink: /schedule/
 - Jane Austen, *Northanger Abbey* ([1803]; 1818)
 - Browse: 
 	- facsimiles of Austen novel title pages [[Canvas folder]](https://princeton.instructure.com/courses/6331/files/folder/Austen-title-pages) 
+	- Broadview appendix (includes Austen's correspondence with publishers, samples of Catherine Morland's reading materials, and reviews of *Northanger Abbey*) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1226418?module_item_id=256595)
 	- titles from eighteenth-century fiction [Early Novels Digital Collection](https://github.com/earlynovels/digital-collection) 
 - Deidre Lynch, excerpts from “At Home with Austen” [on the Austen industry] [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1226333?module_item_id=256589)
 
