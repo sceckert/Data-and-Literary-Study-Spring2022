@@ -39,8 +39,10 @@ permalink: /schedule/
 
 #### Mon 2/7 
 - Jane Austen, *Northanger Abbey* ([1803]; 1818)
-- Browse: facsimiles of Austen novel title pages [Canvas folder]
-- Deidre Lynch, excerpts from “At Home with Austen” [on the Austen industry] [Canvas PDF]
+- Browse: 
+	- facsimiles of Austen novel title pages [[Canvas folder]](https://princeton.instructure.com/courses/6331/files/folder/Austen-title-pages) 
+	- titles from eighteenth-century fiction [Early Novels Digital Collection](https://github.com/earlynovels/digital-collection) 
+- Deidre Lynch, excerpts from “At Home with Austen” [on the Austen industry] [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1226333?module_item_id=256589)
 
 #### Wed 2/9
 - Read: Gaye Tuchman, "Gender Segregation and the Politics of Culture," and Appendices A, B, C from *Edging Women Out: Victorian Novelists, Publishers and Social Change* (1988) [Canvas PDF]
