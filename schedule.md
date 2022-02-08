@@ -48,7 +48,7 @@ permalink: /schedule/
 #### Wed 2/9
 - Read: Gaye Tuchman, "Gender Segregation and the Politics of Culture," and Appendices [A](https://princeton.instructure.com/courses/6331/files?preview=1232541), [B](https://princeton.instructure.com/courses/6331/files?preview=1232542), [C](https://princeton.instructure.com/courses/6331/files?preview=1232543) from *Edging Women Out: Victorian Novelists, Publishers and Social Change* (1988) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1232483?module_item_id=257509)
 -  Optional reading: 
-	-  J. F. Burrows, Introduction and “A Set of Pronouns,” *Computation Into Criticism: A Study of Jane Austen's Novels and an Experiment in Method* (1987) [Canvas PDF]
+	-  J. F. Burrows, [Introduction](https://princeton.instructure.com/courses/6331/files?preview=1234770) and “[A Set of Pronouns,”](https://princeton.instructure.com/courses/6331/files?preview=1234769) *Computation Into Criticism: A Study of Jane Austen's Novels and an Experiment in Method* (1987) [[Canvas PDFs]](https://princeton.instructure.com/courses/6331/files?preview=1234770)
 	-  Marilyn Butler, [“Jane Austen’s Word Process,”](https://www.lrb.co.uk/the-paper/v09/n12/marilyn-butler/jane-austen-s-word-process) *London Review of Books*, June 25, 1987 [review of Burrows’ book] [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files?preview=1232496)
 - Due: [Research Exercise 3](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week3/research-exercise-3.md)
 - Practicum: Counting and descriptive statistics
