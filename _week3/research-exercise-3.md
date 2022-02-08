@@ -74,7 +74,7 @@ What if we didn't have the citation? Or if we simply wanted to cast a wider net?
 
 In addition to locating copies of our reviews in their original format, we're also going to create a mini dataset of the *bibliographic* data associated with our reviews. (We'll do more with this in a bit). While we could just copy the text into a word document or text file, it is significantly more useful to have this information in a structured format, so that we can sort reviews by publication venue, date, and, if applicable, length.
 
-Download [Zotero](https://www.zotero.org/download/) and the [Zotero extension for your browser]([zotero.org](https://www.zotero.org/download/). ![image](../_images/Zotero-logo.png)
+Download [Zotero](https://www.zotero.org/download/) and the [Zotero extension for your browser](https://www.zotero.org/download/). ![image](../_images/Zotero-logo.png)
 
  Zotero is a bibliographic management software. You may have used it before to keep track of secondary and primary sources––today, we're going to use it to collect the bibliographic reference information for our reviews. Zotero will allow us to store our data in a format that we can edit, and in a format that is easy to export to spreadsheets that we can work with in our Python notebooks.
 

@@ -46,7 +46,7 @@ permalink: /schedule/
 - Deidre Lynch, excerpts from “At Home with Austen” [on the Austen industry] [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1226333?module_item_id=256589)
 
 #### Wed 2/9
-- Read: Gaye Tuchman, "Gender Segregation and the Politics of Culture," and Appendices A, B, C from *Edging Women Out: Victorian Novelists, Publishers and Social Change* (1988) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1232483?module_item_id=257509)
+- Read: Gaye Tuchman, "Gender Segregation and the Politics of Culture," and Appendices [A](https://princeton.instructure.com/courses/6331/files?preview=1232541), [B](https://princeton.instructure.com/courses/6331/files?preview=1232542), [C](https://princeton.instructure.com/courses/6331/files?preview=1232543) from *Edging Women Out: Victorian Novelists, Publishers and Social Change* (1988) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1232483?module_item_id=257509)
 -  Optional reading: 
 	-  J. F. Burrows, Introduction and “A Set of Pronouns,” *Computation Into Criticism: A Study of Jane Austen's Novels and an Experiment in Method* (1987) [Canvas PDF]
 	-  Marilyn Butler, [“Jane Austen’s Word Process,”](https://www.lrb.co.uk/the-paper/v09/n12/marilyn-butler/jane-austen-s-word-process) *London Review of Books*, June 25, 1987 [review of Burrows’ book] [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files?preview=1232496)
