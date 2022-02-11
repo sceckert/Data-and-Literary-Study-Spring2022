@@ -57,10 +57,10 @@ permalink: /schedule/
 ## Week 4: Readers, Reception
 
 #### Mon 2/14
-- Read: Wilkie Collins, “The Unknown Public” Household Words (1858) [Canvas PDF]
-- Read: Q.D. Leavis, Preface, Introduction, and Chapter 2 from *Fiction and the Reading Public* (1939) [Canvas PDF]
+- Read: Wilkie Collins, “The Unknown Public” Household Words (1858) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files?preview=1245728)
+- Read: Q.D. Leavis, Preface, Introduction (pages xiii-xvi), and Part I (pages 3-80) from *Fiction and the Reading Public* (1939) [[Canvas PDF--only read assigned sections!]](https://princeton.instructure.com/courses/6331/files?preview=1245730)
 - Optional reading: 
-	- Jonathan Rose, three short chapters: “A History of Audiences,” “Welsh Miner’s Libraries,” and “A Mongrel Library”*The Intellectual Life of the British Working Class* (2001)  [Canvas PDF]
+	- Jonathan Rose, three short chapters: “A Preface to a History of Audiences,” “Welsh Miner’s Libraries,” and “A Mongrel Library”*The Intellectual Life of the British Working Class* (2001)  [Canvas PDF](https://princeton.instructure.com/courses/6331/files?preview=1245815)
 
 #### Wed 2/16
 - Read: Caroline Bressey, “Black Victorians and Anti-Caste: Mapping the Geographies of ‘Missing’ Readers,” in *Media and Print Culture Consumption in Nineteenth-Century Britain: The Victorian Reading Experience*, ed. Paul Raphael Rooney and Anna Gasperini, (2016),pp 75–92. [Canvas PDF]
