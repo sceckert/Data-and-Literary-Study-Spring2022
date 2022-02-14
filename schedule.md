@@ -63,7 +63,8 @@ permalink: /schedule/
 	- Jonathan Rose, three short chapters: “A Preface to a History of Audiences,” “Welsh Miner’s Libraries,” and “A Mongrel Library”*The Intellectual Life of the British Working Class* (2001)  [Canvas PDF](https://princeton.instructure.com/courses/6331/files?preview=1245815)
 
 #### Wed 2/16
-- Read: Caroline Bressey, “Black Victorians and Anti-Caste: Mapping the Geographies of ‘Missing’ Readers,” in *Media and Print Culture Consumption in Nineteenth-Century Britain: The Victorian Reading Experience*, ed. Paul Raphael Rooney and Anna Gasperini, (2016),pp 75–92. [Canvas PDF]
+- Read: Caroline Bressey, “Black Victorians and Anti-Caste: Mapping the Geographies of ‘Missing’ Readers,” in *Media and Print Culture Consumption in Nineteenth-Century Britain: The Victorian Reading Experience*, ed. Paul Raphael Rooney and Anna Gasperini, (2016),pp 75–92. [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files?preview=1251808)
+	- Optional: Browse the [March1895](https://princeton.instructure.com/courses/6331/files?preview=1251811) and [April/May 1895](https://princeton.instructure.com/courses/6331/files?preview=1251810) issues of Anti-Caste.
 - Due: Research Exercise 4: HathiTrust, Dickens Journals Online (Browse full issue of Household words from 1858); Wellesley Index of Victorian Periodicals
 - Practicum: Working with bibliographic data
 
