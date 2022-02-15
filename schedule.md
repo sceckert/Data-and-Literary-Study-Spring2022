@@ -65,7 +65,8 @@ permalink: /schedule/
 #### Wed 2/16
 - Read: Caroline Bressey, “Black Victorians and Anti-Caste: Mapping the Geographies of ‘Missing’ Readers,” in *Media and Print Culture Consumption in Nineteenth-Century Britain: The Victorian Reading Experience*, ed. Paul Raphael Rooney and Anna Gasperini, (2016),pp 75–92. [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files?preview=1251808)
 	- Optional: Browse the [March1895](https://princeton.instructure.com/courses/6331/files?preview=1251811) and [April/May 1895](https://princeton.instructure.com/courses/6331/files?preview=1251810) issues of Anti-Caste.
-- Due: Research Exercise 4: HathiTrust, Dickens Journals Online (Browse full issue of Household words from 1858); Wellesley Index of Victorian Periodicals
+	-  Browse: [full issue of Household Words from 1858](https://www.djo.org.uk/household-words/volume-xviii/page-217.html); Wellesley Index of Victorian Periodicals]
+- Due: [Research Exercise 4: Bibliographic data and borrowing records](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb) [[cloud version]](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week4/research-exercise-4.ipynb)
 - Practicum: Working with bibliographic data
 
 
