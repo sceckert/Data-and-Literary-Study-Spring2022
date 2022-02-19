@@ -73,7 +73,7 @@ permalink: /schedule/
 ## Week 5 Canon, Syllabus
 #### Mon 2/21
 - Read: W.E.B. Du Bois, *The Souls of Black Folk* (1903)
-- Read Daniel Hack, “The Citational Soul of Black Folk: W.E.B. Du Bois,” in *Reaping Something New: African American Transformations of Victorian Literature* (2016) [Canvas PDF]
+- Read Daniel Hack, “The Citational Soul of Black Folk: W.E.B. Du Bois,” in *Reaping Something New: African American Transformations of Victorian Literature* (2016) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files?preview=1266400)
 - Practicum: Encoding Du Bois’s epigraphs
 
 #### Wed 2/23
