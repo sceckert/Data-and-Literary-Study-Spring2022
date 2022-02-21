@@ -74,12 +74,12 @@ permalink: /schedule/
 #### Mon 2/21
 - Read: W.E.B. Du Bois, *The Souls of Black Folk* (1903)
 - Read Daniel Hack, “The Citational Soul of Black Folk: W.E.B. Du Bois,” in *Reaping Something New: African American Transformations of Victorian Literature* (2016) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files?preview=1266400)
-- Practicum: Encoding Du Bois’s epigraphs
+- Practicum: [Encoding Du Bois’s epigraphs] [[cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week5/in-class-practicum-mon-wk5.ipynb)]
 
 #### Wed 2/23
-- Read: Rachel Buurma and Laura Heffernan, Chapter 1: *The Teaching Archive: A New History for Literary Study** (2020)
+- Read: Rachel Buurma and Laura Heffernan, Introduction: A New Syllabus *The Teaching Archive: A New History for Literary Study* (2020) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files?preview=1271663)
 - Due: Research Exercise 5
-- Practicum: Open Syllabus Project: charting the *The Souls of Black Folk* on syllabi; introduction to CSVs
+- Practicum: Open Syllabus Project: charting the *The Souls of Black Folk* on syllabi
 
 ## Week 6: Canons, Anthology
 
