@@ -1,0 +1,19 @@
+***
+This is an example of curly quotation marks:
+“She said, ‘I won’t bungle the encoding!’”
+***
+
+***
+This is an example of an emoji:
+🐈
+***
+
+***This is an example of Russian:
+Говорили, что на набережной появилось новое лицо: дама с собачкой.
+(It was said that a new person had appeared on the sea-front: a lady with a little dog.)
+
+***
+This is an example of Chinese:
+如果我们想学习中文短篇小说怎么办？
+(What if we want to study Chinese short stories?)
+***
