@@ -19,9 +19,9 @@ In this next exercise, we're going to use the Open Syllabus Project's database t
 
 Let's explore the dataset! 
 
-+ 1b. Using the [Open Syllabus Project's Explorer viewer](https://opensyllabus.org/), search the "Titles" for The Souls of Black Folk
++ 1b. Using the [Open Syllabus Project's Explorer viewer](https://opensyllabus.org/), search the ["Titles" portal](https://opensyllabus.org/results-list/titles?size=50) for *The Souls of Black Folk* 
 	+ What did you find? Did anything surprise you?
-	+ Using the [Titles portal]((https://opensyllabus.org/results-list/titles?size=50)), search for both The Souls of Black Folk and Princeton
+	+ Using the ["Titles" portal](https://opensyllabus.org/results-list/titles?size=50), search for both The Souls of Black Folk and Princeton
 + 1c. Using the ["Schools" portal](https://opensyllabus.org/results-list/schools?size=50), search a look at the syllabi specific to Princeton. 
 	+ Are there patterns you notice?
 + 1d. Open the [Open Syllabus Project's Galaxy viewer](https://galaxy.opensyllabus.org/),
@@ -50,7 +50,7 @@ Finally, take a quick peak at [this zip file of PDF excerpts from sample syllabi
 
 
 
-## 3. Finding Princetons' syllabi
+## 3. Finding Princeton archival syllabi
 
 What if we wanted to find syllabi closer to home, in Princeton's literature departments?
 
