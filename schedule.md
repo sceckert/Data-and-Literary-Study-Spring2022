@@ -78,7 +78,7 @@ permalink: /schedule/
 
 #### Wed 2/23
 - Read: Rachel Buurma and Laura Heffernan, Introduction: A New Syllabus *The Teaching Archive: A New History for Literary Study* (2020) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files?preview=1271663)
-- Due: Research Exercise 5
+- Due: [Research Exercise 5](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/research-exercise-5.md)
 - Practicum: Open Syllabus Project: charting the *The Souls of Black Folk* on syllabi
 
 ## Week 6: Canons, Anthology
