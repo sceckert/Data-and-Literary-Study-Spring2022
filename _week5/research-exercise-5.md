@@ -7,7 +7,7 @@ In this research exercise, we're going to look at three different datasets of sy
 There are three parts to this exercise. The bulk of the exercise is in Part 1 (which concludes with a short reflection) and Part 2 (which includes a few short questions for reflection.
 
 
-## 1. *The Souls of Black Folks** in the Open Syllabus Project
+## 1. *The Souls of Black Folks* in the Open Syllabus Project
 
 The Open Syllabus Project (OSP), a non-profit founded that originated in the American Assembly (a Columbia University-affiliated think tank), is a database of just over 9 million college course syllabi and 7.2 million currently searchable metadata from those syllabi). 
 
@@ -19,7 +19,7 @@ In this next exercise, we're going to use the Open Syllabus Project's database t
 
 Let's explore the dataset! 
 
-+ 1b. Using the [Open Syllabus Project's Explorer viewer](https://blog.opensyllabus.org/), search the "Titles" for The Souls of Black Folk
++ 1b. Using the [Open Syllabus Project's Explorer viewer](https://opensyllabus.org/), search the "Titles" for The Souls of Black Folk
 	+ What did you find? Did anything surprise you?
 	+ Using the [Titles portal]((https://opensyllabus.org/results-list/titles?size=50)), search for both The Souls of Black Folk and Princeton
 + 1c. Using the ["Schools" portal](https://opensyllabus.org/results-list/schools?size=50), search a look at the syllabi specific to Princeton. 
@@ -40,9 +40,9 @@ What if we wanted to look at a the syllabus history of a single literature cours
 
 Like Princeton's "Interdisciplinary Approaches to Western Culture" courses in the HUM sequence, Columbia has a core sequence of courses in Western literature and philosophy, dating back to the founding of university's great books curriculum during the interwar period (1919-1947). While we don't have an easily accessible set of material's on Princeton's core humanities sequence, we do have access to one version of Columbia's Core Curriculum records.
 
-Take a look at the [Literature Humanities Texts 1937-2020 data](https://www.college.columbia.edu/core/1937.php) as described on the Literature Humanities website (also available in [this CSV](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_datasets/Columbia-Literature-Humanities-Syllabi/columbia-university-literature-humanities-syllabus-texts-1937-2020.csv)). Download the [zip file containing the datasets](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_datasets/Columbia-Literature-Humanities-Syllabi.zip) Then, take a look at the the modified, more machine-readable version of the data I've collected in [this CSV](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_datasets/Columbia-Literature-Humanities-Syllabi/columbia-university-literature-humanities-syllabus-texts-1937-2020-cleaned.csv), which omits Milton's *Lycidas* and standardizes the dates. Feel free to practice your Python skills and open up the modified CSV in a Jupyter notebook!  Think about what you might want to do to visualize this data.
+Take a look at the [Literature Humanities Texts 1937-2020 data](https://www.college.columbia.edu/core/1937.php) as described on the Literature Humanities website (also available in [this CSV](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_datasets/Columbia-Literature-Humanities-Syllabi/columbia-university-literature-humanities-syllabus-texts-1937-2020.csv)). Download the [zip file containing the datasets](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_datasets/Columbia-Literature-Humanities-Syllabi.zip?raw=true) Then, take a look at the the modified, more machine-readable version of the data I've collected in [this CSV](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_datasets/Columbia-Literature-Humanities-Syllabi/columbia-university-literature-humanities-syllabus-texts-1937-2020-cleaned.csv), which omits Milton's *Lycidas* and standardizes the dates. Feel free to practice your Python skills and open up the modified CSV in a Jupyter notebook!  Think about what you might want to do to visualize this data.
 
-Finally, take a quick peak at [this zip file of PDF excerpts from sample syllabi](sample-literature-humanities-syllabi.zip?raw=true). (Note: these are just a very small representative sample of the kinds of syllabi that the dataset is drawn from)
+Finally, take a quick peak at [this zip file of PDF excerpts from sample syllabi](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_datasets/Columbia-Literature-Humanities-Syllabi/sample-literature-humanities-syllabi.zip?raw=true). (Note: these are just a very small representative sample of the kinds of syllabi that the dataset is drawn from)
 
 
 + 2a. What patterns do you notice?
@@ -61,6 +61,6 @@ In a few class sessions, we'll be heading to Special Collections in Firestone Li
 + Once you've found something, navigate to one of the finding aids and, within the finding aid, to the particular set of material that your search.
 + Pick 2 or 3 items that you would want to potentially examine-- record the box or folder information, the collection and any other relevant collection call number.
 
-Note: I've restricted the search to just the Manuscripts Division, since that's where we'll be visiting. But the University Archives. What if we [include Princeton University Archives (housed at the Mudd Library in our search](https://findingaids.princeton.edu/?group=true&q=syllabi&search_field=all_fields)-- does anything cats your eye? 
+Note: I've restricted the search to just the Manuscripts Division, since that's where we'll be visiting. But the University Archives. What if we [include Princeton University Archives (housed at the Mudd Library) in our search](https://findingaids.princeton.edu/?group=true&q=syllabi&search_field=all_fields)-- does anything cats your eye? 
 
 Make note of any potentially interesting material!
