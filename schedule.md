@@ -84,9 +84,9 @@ permalink: /schedule/
 ## Week 6: Canons, Anthology
 
 #### Mon 2/28
-- Read: John Guillory, "Canonical and Noncanonical," in*Cultural Capital: The Problem of Literary Canon Formation* (1993) [Canvas PDF]
-- Read: Henry Louis Gates, “The Master’s Pieces: On Canon Formation and the African -American Tradition,” in *Loose Canons: Notes on the Culture Wars*  (1992) [Canvas PDF]
-- Read: Toni Morrison, “Unspeakable Things Unspoken: The Afro-American Presence in American Literature” (1988) [Canvas PDF]
+- Read: John Guillory, "Canonical and Noncanonical," in*Cultural Capital: The Problem of Literary Canon Formation* (1993) [Canvas PDF](https://princeton.instructure.com/courses/6331/files?preview=1281858) [Notes](https://princeton.instructure.com/courses/6331/files?preview=1281860)
+- Read: Henry Louis Gates, “The Master’s Pieces: On Canon Formation and the African -American Tradition,” in *Loose Canons: Notes on the Culture Wars*  (1992) [Canvas PDF](https://princeton.instructure.com/courses/6331/files?preview=1281859) 
+- Read: Toni Morrison, “Unspeakable Things Unspoken: The Afro-American Presence in American Literature” (1988) [Canvas PDF](https://princeton.instructure.com/courses/6331/files?preview=1281857)
 
 #### Wed 3/2
 - Read: Melanie Walsh and Maria Antoniak, [“The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,”](https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism) *Journal of Cultural  Analytics* 6, no. 2 (April 20, 2021)

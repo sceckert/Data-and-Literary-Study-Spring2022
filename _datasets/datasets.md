@@ -6,7 +6,7 @@ This is a preliminary (and growing) set of literature, literary history and prin
 + [“At the Circulating Library: A Database of Victorian Fiction, 1837–1901”](https://www.victorianresearch.org/atcl/index.php)
 + Alan Liu's [1880s British Fiction corpus](http://english197s2015studentwork.pbworks.com/w/page/96659757/Our%20Corpora)
 +  Author archives:
-	+  ["ClaudeMcKay,"](https://github.com/amardeepmsingh/ClaudeMcKay/blob/8e7df637f845ddb8c658e45ef6c9fe8e26ac138e/claude-mckay-constab-ballads-light-tei.xml.)
+	+  ["ClaudeMcKay,"](https://github.com/amardeepmsingh/ClaudeMcKay/blob/8e7df637f845ddb8c658e45ef6c9fe8e26ac138e/claude-mckay-constab-ballads-light-tei.xml)
 	+  [“Frankenstein Variorum”](https://doi.org/10.1184/R1/c.4805868.v1)
 	+ [Rossetti Archive](http://www.rossettiarchive.org/) 
 	+ [“Shakespeare Census.”](https://shakespearecensus.org/)
@@ -59,6 +59,7 @@ McGill txtlab. “Txtlab Multilingual Novels.” figshare, January 28, 2016. htt
 + Singh, Amardeep. "[Colonial-South-Asian-Literature"](ttps://github.com/amardeepmsingh/Colonial-South-Asian-Literature)
 + HathiTrust Datasets
 	+  HTRC portal - browse curated collections
+	+  [HathiTrust Digital Library derived datasets](https://wiki.htrc.illinois.edu/display/COM/HTRC+Derived+Datasets)
 	+  Ted Underwood. [“Page-Level Genre Metadata for English-Language Volumes in HathiTrust, 1700-1922.”](https://doi.org/10.6084/M9.FIGSHARE.1279201)
 	+  Underwood, Ted, Boris Capitanu, Peter Organisciak, Sayan Bhattacharyya, Loretta Auvil, Colleen Fallaw, and J. Stephen Downie. [“Word Frequencies in English-Language Literature, 1700-1922 (0.2).”](https://doi.org/10.13012/J8JW8BSJ)
 	+ Dan Sinykin's curated datasets of small-press contemporary fiction holdings in HathiTrust:
@@ -68,6 +69,8 @@ McGill txtlab. “Txtlab Multilingual Novels.” figshare, January 28, 2016. htt
 		+ [MILKWEED NOVELS](https://babel.hathitrust.org/cgi/mb?a=listis;c=83691902)
 		+ [RANDON HOUSE NOVELS, 1980-PRESENT](https://babel.hathitrust.org/cgi/mb?a=listis;c=299236448.)
 		+ [“The ARTFL Project | The ARTFL Project.”](https://artfl-project.uchicago.edu/)
++ JSTOR datasets
+	+ [JSTOR Data for Research: create your own dataset from JSTOR's journal data](https://about.jstor.org/whats-in-jstor/text-mining-support/)
 + PublishersWeekly.com. [“Translation Database.”](https://www.publishersweekly.com/pw/translation/search/index.html)
 + [TxtLAB450. A Multilingual Data Set of Novels for Teaching and Research](https://txtlab.org/2016/01/txtlab450-a-data-set-of-multilingual-novels-for-teaching-and-research/)
 + [Theatre de Paris ](https://github.com/grvsmth/theatredeparis)
