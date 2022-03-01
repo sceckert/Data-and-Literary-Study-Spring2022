@@ -93,7 +93,7 @@ permalink: /schedule/
 - Read:  Richard Jean So, and "1. Production: On White Publishing,"  from *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction*] (2021) [[Canvas PDF](https://princeton.instructure.com/courses/6331/files/?preview=1291301)]
 	- Optional reading: So, "Introduction" [[Canvas PDF](https://princeton.instructure.com/courses/6331/files/?preview=1291300)]
 	- Optional reading: José Eduardo González et al., [“Measuring Canonicity: Graduate Reading Lists in Departments of Hispanic Studies,”](https://culturalanalytics.org/article/21599-measuring-canonicity-graduate-read-ing-lists-in-departments-of-hispanic-studies) Journal of Cultural Analytics 6, no. 1 (March 19, 2021) 
-- Due: Research Exercise 6
+- Due: [Research Exercise 6](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week6/research-exercise-6.ipynb) | [[interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week6/research-exercise-6.ipynb)]
 - Practicum: Norton Anthologies of English Literature (see packet of Norton tables of contents provided by instructor) tables of contents as data; quantifying the canon
 
 ## SPRING RECESS
