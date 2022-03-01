@@ -90,8 +90,9 @@ permalink: /schedule/
 
 #### Wed 3/2
 - Read: Melanie Walsh and Maria Antoniak, [“The Goodreads ‘Classics’: A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,”](https://culturalanalytics.org/article/22221-the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism) *Journal of Cultural  Analytics* 6, no. 2 (April 20, 2021)
-- Read:  Richard Jean So, "Introduction" and "1. Production: On White Publishing,"  from *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction** (2021)
-- Optional reading: José Eduardo González et al., [“Measuring Canonicity: Graduate Reading Lists in Departments of Hispanic Studies,”](https://culturalanalytics.org/article/21599-measuring-canonicity-graduate-read-ing-lists-in-departments-of-hispanic-studies) Journal of Cultural Analytics 6, no. 1 (March 19, 2021) 
+- Read:  Richard Jean So, and "1. Production: On White Publishing,"  from *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction*] (2021) [[Canvas PDF](https://princeton.instructure.com/courses/6331/files/?preview=1291301)]
+	- Optional reading: So, "Introduction" [[Canvas PDF](https://princeton.instructure.com/courses/6331/files/?preview=1291300)]
+	- Optional reading: José Eduardo González et al., [“Measuring Canonicity: Graduate Reading Lists in Departments of Hispanic Studies,”](https://culturalanalytics.org/article/21599-measuring-canonicity-graduate-read-ing-lists-in-departments-of-hispanic-studies) Journal of Cultural Analytics 6, no. 1 (March 19, 2021) 
 - Due: Research Exercise 6
 - Practicum: Norton Anthologies of English Literature (see packet of Norton tables of contents provided by instructor) tables of contents as data; quantifying the canon
 
