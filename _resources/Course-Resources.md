@@ -36,12 +36,23 @@ I've update three additional files that might be helpful in collecting and curat
 How to create and manipulate tabular data in a Pandas data frame
 
 - [What is `pandas`?]((https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb)
-- [Research Exercise 4: Bibliographic Data and Borrowing Records](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week4/research-exercise-4.ipynb)
+- [Research Exercise # 4: Bibliographic Data and Borrowing Records](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week4/research-exercise-4.ipynb)
 	- [Cheatsheet: Python operations we can perform on `pandas` DataFrames](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week4/research-exercise-4.ipynb)
 	- [Making a visualization](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week4/research-exercise-4.ipynb)
 	- [Exploratory Data Analysis](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week4/research-exercise-4.ipynb)
 - [Practice working with bibliographic data in Python](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb) 
+-  [Reading and encoding the text of *The Souls of Black Folk*: facsimile, OCR, XML](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/in-class-practicum-mon-wk5.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week5/in-class-practicum-mon-wk5.ipynb)
+-  [Python review](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/in-class-practicum-wed-wk5.ipynb) | [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week5/in-class-practicum-wed-wk5.ipynb)) [Python review SOLUTIONS](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/in-class-practicum-wed-wk5-solutions.ipynb) | [[interactive cloud version]](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week5/in-class-practicum-wed-wk5-solutions.ipynb))
+- [Research Exercise # 5: Syllabi as Data](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/research-exercise-5.md)
+	- [Open Syllabus Project](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/research-exercise-5.md#1-the-souls-of-black-folks-in-the-open-syllabus-project)
+	- [Columbia University Literature Humanitie Syllabus](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/research-exercise-5.md#2-columbia-universitys-literature-humanities-syllabus-1937-2020)
+- [Research Exercise #6: Anthologies as Data](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week6/research-exercise-6.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week6/research-exercise-6.ipynb)
 
+## Advanced tips for working with text files in Python
+
+- [In class practicum on reading & writing text files, splitting up text files, reading all text files in a directory, output split text file as a series of new files](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week6/in-class-practicum-wk6-wed.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week6/in-class-practicum-wk6-wed.ipynb)
+
+	- 
 
 ## File-types and text encoding
 

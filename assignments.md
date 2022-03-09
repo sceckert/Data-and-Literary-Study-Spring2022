@@ -52,7 +52,7 @@ And you might put a reading in dialogue with other readings for that week:
 
 
 
-### Short Paper (5-6 page)  30%
+### Short Paper (5-6 page)  20%
 
 I'll ask that you write one 5-6 page  (double-spaced) paper. This will develop out of a research practicum of your choice by extending the research exercise through application or analysis. Going further the research exercises, this short paper should apply a method learned to make an argumentative claim, either about a dataset, method, project, or interface. Like your weekly homework, you will submit these assignments to me. You will choose the date that the short paper is due––I recommend turning it in before the week after spring break, to give time for feedback. Papers should be submitted via email.
 
