@@ -103,9 +103,9 @@ permalink: /schedule/
 ## Week 7: Libraries, Archives, Collections
 #### Mon 3/14
 - Read: Arthur Conan Doyle, *The Adventures of Sherlock Holmes* (1892)
-- Read: Priya Joshi, Chapter 1 "The Poetical Economy of Consumption" and Chapter 2, "The Circulation of Fiction in Indian Libraries, ca. 1835-1901"*In Another Country: Colonialism, Culture, and the English Novel in India* (2002) [Canvas PDF]
+- Read: Priya Joshi, [Chapter 1 "The Poetical Economy of Consumption"](https://princeton.instructure.com/courses/6331/files?preview=1312008) and [Chapter 2, "The Circulation of Fiction in Indian Libraries, ca. 1835-1901"](https://princeton.instructure.com/courses/6331/files?preview=1312009)*In Another Country: Colonialism, Culture, and the English Novel in India* (2002) [Joshi endnotes Canvas PDF](https://princeton.instructure.com/courses/6331/files?preview=1312010)
 - Browse: [Shakespeare and Company Project](https://shakespeareandco.princeton.edu/) and project [dataset](https://shakespeareandco.princeton.edu/about/data/)
-- Library catalog records for the Silvia Beach Papers
+- [Library finding aids for the Silvia Beach Papers](https://findingaids.princeton.edu/catalog/C0108)
 
 #### Wed 3/16
 - FIELD TRIP: Practicum: The Morris Parish Collection of Victorian Literature
