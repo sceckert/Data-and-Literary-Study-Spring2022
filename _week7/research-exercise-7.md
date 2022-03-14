@@ -12,7 +12,7 @@ For this short research exercise, you're going to identify **1-2 items** that yo
 What is a finding aid? A finding aid is a a document crated by an archivist (or archivists) to describe a collection. They offer an inventory or an index to the contents of a collection held in an institutional archive and help a researcher or user navigate the contents to find relevant material. Unlike offers in a library catalog
 
 
-What's in a finding aid? Finding aids contain **collections**, which are organized into **series**, which contain "**items**" that can be collected. Take a few minutes to read this short [2018 infographic  "What is A Finding Aid?,"](https://www.bates.edu/archives/files/2018/05/What-is-a-finding-aid_.pdf), created by archivists at Bates College for their Archives and Special Collections Library.
+What's in a finding aid? Finding aids contain **collections**, which are organized into **series**, which contain "**items**" (often stored in boxes or folders) that can be request for review in a reading room. Take a few minutes to read this short [2018 infographic  "What is A Finding Aid?,"](https://www.bates.edu/archives/files/2018/05/What-is-a-finding-aid_.pdf), created by archivists at Bates College for their Archives and Special Collections Library.
 
 Finding aids will be vary in terms of their level of detail––there may be items in a collection not covered in a finding aid! This is because archival science balances different impulses: giving detailed enough information about the contents of a particular collection and making as many collections as possible available for researchers. Typically, a given collection may contain subsidies (like "Correspondence" or "Writings", along with brief descriptions of groupings of contents).
 
