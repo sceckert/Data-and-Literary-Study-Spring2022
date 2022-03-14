@@ -108,9 +108,17 @@ permalink: /schedule/
 - [Library finding aids for the Silvia Beach Papers](https://findingaids.princeton.edu/catalog/C0108)
 
 #### Wed 3/16
-- FIELD TRIP: Practicum: The Morris Parish Collection of Victorian Literature
-- Read: Parish collection finding aids 
-- Due: Research Exercise 7
+- FIELD TRIP: Firestone Library Special Collections 
+- Browse:
+	-  The Morris Parrish Collection of Victorian Literature collection 
+		+ [Overview of M. L. Parrish Collection of Victorian Novelists](https://library.princeton.edu/special-collections/collections/m-l-parrish-collection-victorian-novelists)
+		+ Browse the individual author collections catalog entries. Catalog entries by author (in PDF file format) are available here:[ http://libweb2.princeton.edu/rbsc2/parrish/](http://libweb2.princeton.edu/rbsc2/parrish/) 
+		+ ["M. L. Parrish Collection of Victorian Novelists, 1806-1958 (mostly 1830-1939)"](https://findingaids.princeton.edu/catalog/C0171) [finding aid]
+			+ Note that the finding aid focuses on the *manuscript* and non-book portion of the collection
+	- The Sylvia Beach Papers
+		+ ["The Sylvia Beach Papers, 1872-1999"](https://findingaids.princeton.edu/catalog/C0108) [finding aid] 
+		+ See how the Beach papers are [used as sources in the Shakespeare and Company Project](https://shakespeareandco.princeton.edu/sources/)
+- Due: [Research Exercise 7](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week7/research-exercise-7.md)
 
 ## Week 8: Digital Archives and Imperialism
 
