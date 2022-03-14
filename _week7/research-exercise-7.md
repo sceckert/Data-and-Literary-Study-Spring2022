@@ -3,7 +3,7 @@
 
 For this short research exercise, you're going to identify **1-2 items** that you'd like to look at in our visit to Firestone Libraries Special Collections on Wednesday.
 
-+  Part 1:  Using one of the three methods below, find 1-2 items that you would like to consult in our visit and submit them via email by **Tuesday morning.**
++  Part 1:  Using one of the three methods below, find 1-2 items that you would like to consult in our visit. Write down the item names and either the call number /shelfmark or the collection name and box and/or folder number. Submit them via email by **Tuesday morning.**
 + Part 2: In preparation for our visit, take some notes on how you plan to document the object, what kinds of questions you plant to ask (This longer writeup can be submit this on Wednesday)
 
 
@@ -62,9 +62,11 @@ Examples of finding aids and collection overviews:
 
 ![image](../_images/catalog-search.png)
 
-5.  Within a catalog entry, you'll also get information about the item:
+5.  Within a catalog entry, you'll also get information about the item, including the call number and shelf mark.
 
 ![image](../_images/dubois-special-collections.png)
+
+
 
 ## 2. Finding items in the finding aid and manuscripts catalog
 
