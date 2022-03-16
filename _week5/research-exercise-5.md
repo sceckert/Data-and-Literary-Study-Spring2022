@@ -14,7 +14,7 @@ The Open Syllabus Project (OSP), a non-profit founded that originated in the Ame
 In this next exercise, we're going to use the Open Syllabus Project's database to explore patterns in what texts are assigned in syllabiBecause of copyright reasons, the full text of syllabi are protected and not available fore download, nor are the metrics
 
 + 1.a Read the about page for the project, and browse through the ["Architecture + models" behind the project data](https://docs.opensyllabus.org/models.html). Don't panic if there are some technical terms––try to read with an eye towards understanding how the dataset was constructed, out of what materials, and what questions you might have about their methods. 
-	+ Thing about what you've just read: what do we know (and not know) about the contents, scope, or origins of this dataset? 
+	+ Think about what you've just read: what do we know (and not know) about the contents, scope, or origins of this dataset? 
 	+ What things might we need to keep in mind if we wanted to make claims with this dataset? 
 
 Let's explore the dataset! 
