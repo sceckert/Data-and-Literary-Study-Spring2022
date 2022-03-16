@@ -31,11 +31,16 @@ I've update three additional files that might be helpful in collecting and curat
 - [Research Exercise # 3: Nineteenth-century reviews as data](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week3/research-exercise-3.md)
 - [Using Zotero to collect bibliographic metadata from nineteenth-century reviews](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week3/research-exercise-3.md#part-2-collecting-metadata-from-19th-century-reviews)
 
+
+## Working with Archives
+
+- [Research Exercise #7: Archives and Collections as Data](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week7/research-exercise-7.md)
+
 ## Python and Pandas
 
 How to create and manipulate tabular data in a Pandas data frame
 
-- [What is `pandas`?]((https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb)
+- [What is `pandas`?](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb)
 - [Research Exercise # 4: Bibliographic Data and Borrowing Records](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week4/research-exercise-4.ipynb)
 	- [Cheatsheet: Python operations we can perform on `pandas` DataFrames](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week4/research-exercise-4.ipynb)
 	- [Making a visualization](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week4/research-exercise-4.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week4/research-exercise-4.ipynb)
@@ -57,6 +62,6 @@ How to create and manipulate tabular data in a Pandas data frame
 
 ## File-types and text encoding
 
-- [What is XML?]
+- [What is text encoding? XML, HTML](https://sceckert.github.io/presentations/slides/Data-Lit-wk5-mon.html#/)
 - [Character and file encoding](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/in-class-practicum-mon-wk5.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week5/in-class-practicum-mon-wk5.ipynb)
 - [Reading and encoding the text of *The Souls of Black Folk*: facsimile, OCR, XML](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/in-class-practicum-mon-wk5.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week5/in-class-practicum-mon-wk5.ipynb)
