@@ -61,6 +61,6 @@ In a few class sessions, we'll be heading to Special Collections in Firestone Li
 + Once you've found something, navigate to one of the finding aids and, within the finding aid, to the particular set of material that your search.
 + Pick 2 or 3 items that you would want to potentially examine-- record the box or folder information, the collection and any other relevant collection call number.
 
-Note: I've restricted the search to just the Manuscripts Division, since that's where we'll be visiting. But the University Archives. What if we [include Princeton University Archives (housed at the Mudd Library) in our search](https://findingaids.princeton.edu/?group=true&q=syllabi&search_field=all_fields)-- does anything cats your eye? 
+Note: I've restricted the search to just the Manuscripts Division, since that's where we'll be visiting. But the University Archives. What if we [include Princeton University Archives (housed at the Mudd Library) in our search](https://findingaids.princeton.edu/?group=true&q=syllabi&search_field=all_fields)-- does anything catch your eye? 
 
 Make note of any potentially interesting material!

@@ -122,11 +122,11 @@ permalink: /schedule/
 
 ## Week 8: Digital Archives and Imperialism
 
-#### Mon 3/28
+#### Mon 3/21
 - Read: Katherine Bode, [“Fictional Systems: Network Analysis and Syndication Networks,”](https://www-jstor-org.ezproxy.princeton.edu/stable/j.ctvdtpj1d.9?seq=1#metadata_info_tab_contents) in *A World of Fiction: Digital Collections and the Future of Literary History* (2018)
 - Read: Roopika Risam, “Colonial Violence and the Postcolonial Digital Archive,” in *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy* (2018) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1189973?module_item_id=247197)
 
-#### Wed 3/30
+#### Wed 3/23
 - Read: David A. Smith, Ryan Cordell, and Elizabeth Maddock Dillon, “Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers” (2013)
 - Stephanie Yee and Tony Chu, [“A Visual Introduction to Machine Learning”](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) (2015)
 - Read: Victor Powell, ["Conditional probability explained visually."](https://setosa.io/ev/conditional-probability/) 
@@ -136,11 +136,11 @@ permalink: /schedule/
 
 
 ## Week 9: Novels and Social Space
-#### Mon 4/4 
+#### Mon 3/28 
 - Read: David K. Elson, Nicholas Dames, and Kathleen R. McKeown, “Extracting Social Networks from Literary Fiction,” in *Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics*, ACL ’10 (Stroudsburg, PA, USA: Association for Computational Linguistics, 2010), 138–47, 
 - Read: Matthew Wilkens, “The Geographic Imagination of Civil War-Era American Fiction,” *American Literary History* 25, no. 4 (December 1, 2013): 803–40, 
 
-#### Wed 4/6  
+#### Wed 3/30  
 - Read: David Bamman, "Born-Literary Natural Language Processing," Debates in Digital Humanities (2020
 - Please read [the documentation for David Bamman’s BookNLP]()
 - Due: Research Exercise 9
@@ -148,28 +148,38 @@ permalink: /schedule/
 
 
 ## Week 10: Machine Reading the History of Literary Studies
-#### Mon 4/11 
+#### Mon 4/4 
 - Read: David Blei, “Probabilistic Topic Modeling” (2012)
 - Read: Andrew Goldstone and Ted Underwood, “What can topic models of PMLA teach us about the history of literary scholarship?” *ARCADE*. (2012) 
 - The “Middlematch” project
 
-DUE: Final Project Proposal
 
-#### Wed 4/13 
+#### Wed 4/6 
 - Read: Miriam Posner, “Very basic strategies for interpreting results from the Topic Modeling Tool” (2012)
 - Read: Lisa Rhody, “Topic Modeling and Figurative Language” (2012)
 - Practicum: Topic modeling and unsupervised machine learning
 
+DUE: Final Project Proposal
+
 ## Week 11: Visualizing Literary Data
-#### Mon 4/18 
+#### Mon 4/11 
 - Read: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings” (2014)
 - Read: Anne DeWitt, “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press” (2015)
 - Practicum: Network visualizations in Python and Cytoscape 
 
-#### Mon 4/20 
+#### Wed 4/13 
+
+
+## Week 12: Data Futures
+#### Mon 4/18 
+- Read: Pascale Casanova, from The World Republic of Letters (2007)
+- Read: Aamir Mufti, “Orientalism and the Institution of World Literatures” (20210)
+
+
+#### Wed 4/20 
 
 - FINAL PROJECT PRESENTATIONS
-
+- 
 Final Project Due Dean’s Date (5/3)
 
 
