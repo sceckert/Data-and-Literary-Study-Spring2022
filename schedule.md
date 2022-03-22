@@ -131,7 +131,7 @@ permalink: /schedule/
 - Stephanie Yee and Tony Chu, [“A Visual Introduction to Machine Learning”](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) (2015)
 - Read: Victor Powell, ["Conditional probability explained visually."](https://setosa.io/ev/conditional-probability/) 
 - Explore: [The Arbital Guide to the Bayes Rule](https://arbital.com/p/bayes_rule/?l=1zq)
-- Due: Research Exercise 8
+- Due: [Research Exercise 8](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week8/research-exercise-8.md)
 - Practicum: Modeling text-reuse, text classification
 
 
