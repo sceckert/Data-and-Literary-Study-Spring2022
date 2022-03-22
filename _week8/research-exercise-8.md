@@ -47,7 +47,7 @@ OpenRefine is an application that runs in a web browser (like Jupyter notebooks 
 
 ### 1b. Complete the *Programming Historian* tutorial: Fetching and Parsing Data with OpenRefine
 
-1. Complete the steps for Evan Peter Williamson's ["Fetching and Parsing Data with OpenRefine."](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine#cleanup-and-export)
+1. Complete the steps for Evan Peter Williamson's ["Fetching and Parsing Data with OpenRefine."](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine)
 2. The tutorial will take you through two steps for web-scraping with OpenRefine: 
 	 -  First, creating a simple dataset of [Shakespeare's 154 sonnets from Project Gutenberg](https://www.gutenberg.org/cache/epub/1105/pg1105.html)
 	-  And second, you'll be creating a small corpus of articles from the Library of Congress's [*Chronicling America*](https://chroniclingamerica.loc.gov/)  project, a historical Newspaper database of eighteenth-, nineteenth-, and early-twentieth-century newspapers in the United States. (For more about the project, read here: https://chroniclingamerica.loc.gov/about/)
