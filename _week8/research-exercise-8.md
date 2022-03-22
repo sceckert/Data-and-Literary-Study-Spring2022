@@ -3,7 +3,7 @@
 
 For this week's practicum, you've already begun to read about the conditional probability behind machine learning techniques. We'll be drawing on those methods in the coming weeks as we explore techniques for algorithmically querying a dataset.
 
-The first technique we'll be learning is searching for patterns of text-reuse. In order to do this, we're going to learn how to create a corpus of texts that might be queried 
+The first technique we'll be learning is searching for patterns of text-reuse. In order to do this, we're going to learn how to create a corpus of texts that might be queried.
 
 For **part 1 of this exercise**: you're going to complete the steps outlined below for downloading a data-cleaning (and collecting) software called OpenRefine. Following the steps of a Programming Historian tutorial, you'll use OpenRefine to create two small corpora of text drawing from web URLs and write up a short reflection on what you learn about the the method.
 
