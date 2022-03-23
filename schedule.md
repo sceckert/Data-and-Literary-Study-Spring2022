@@ -127,7 +127,7 @@ permalink: /schedule/
 - Read: Roopika Risam, “Colonial Violence and the Postcolonial Digital Archive,” in *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy* (2018) [[Canvas PDF]](https://princeton.instructure.com/courses/6331/files/1189973?module_item_id=247197)
 
 #### Wed 3/23
-- Read: David A. Smith, Ryan Cordell, and Elizabeth Maddock Dillon, “Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers” (2013)
+- Read: David A. Smith, Ryan Cordell, and Elizabeth Maddock Dillon, [“Infectious Texts: Modeling Text Reuse in Nineteenth-Century Newspapers”](https://www.ccs.neu.edu/home/dasmith/infect-bighum-2013.pdf) (2013)
 - Stephanie Yee and Tony Chu, [“A Visual Introduction to Machine Learning”](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) (2015)
 - Read: Victor Powell, ["Conditional probability explained visually."](https://setosa.io/ev/conditional-probability/) 
 - Explore: [The Arbital Guide to the Bayes Rule](https://arbital.com/p/bayes_rule/?l=1zq)

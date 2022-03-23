@@ -40,7 +40,7 @@ OpenRefine is an application that runs in a web browser (like Jupyter notebooks 
 ### 1a. Download OpenRefine
 
 1. Navigate to the OpenRefine [download page](https://openrefine.org/download.html)
-2. Follow the instructions to download the OpenRefine (version 3.4.1) kit for your operating system. This will download the app installer for your operating system
+2. Follow the instructions to download the OpenRefine (version 3.4.1 or whatever is the most recent) kit for your operating system. This will download the app installer for your operating system
 
 - *NOTE*: OpenRefine requires the software Java. If you are on Windows, you will need to download a different version depending on whether or not you have Java. To check whether you have Java, open up PowerShell (your command line interface) and type `java -version`. You will either get an output with the line `java version "your version number"` or nothing. If nothing is returned, this means you don't have Java on your machine.
 
