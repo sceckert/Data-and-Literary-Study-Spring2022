@@ -132,7 +132,7 @@ permalink: /schedule/
 - Read: Victor Powell, ["Conditional probability explained visually."](https://setosa.io/ev/conditional-probability/) 
 - Explore: [The Arbital Guide to the Bayes Rule](https://arbital.com/p/bayes_rule/?l=1zq)
 - Due: [Research Exercise 8](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week8/research-exercise-8.md)
-- Practicum: Modeling text-reuse, text classification
+- Practicum: [Modeling text-reuse](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week8/in-class-practicum-wk8-wed.ipynb)  | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week8/in-class-practicum-wk8-wed.ipynb)
 
 
 ## Week 9: Novels and Social Space
