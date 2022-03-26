@@ -137,8 +137,8 @@ permalink: /schedule/
 
 ## Week 9: Novels and Social Space
 #### Mon 3/28 
-- Read: David K. Elson, Nicholas Dames, and Kathleen R. McKeown, “Extracting Social Networks from Literary Fiction,” in *Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics*, ACL ’10 (Stroudsburg, PA, USA: Association for Computational Linguistics, 2010), 138–47, 
-- Read: Matthew Wilkens, “The Geographic Imagination of Civil War-Era American Fiction,” *American Literary History* 25, no. 4 (December 1, 2013): 803–40, 
+- Read: David K. Elson, Nicholas Dames, and Kathleen R. McKeown, “Extracting Social Networks from Literary Fiction,” in *Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics*, ACL ’10 (Stroudsburg, PA, USA: Association for Computational Linguistics, 2010), 138–47, [[Canvas PDF](https://princeton.instructure.com/courses/6331/files?preview=1351449)]
+- Read: Matthew Wilkens, “The Geographic Imagination of Civil War-Era American Fiction,” *American Literary History* 25, no. 4 (December 1, 2013): 803–40, [[Canvas PDF](https://princeton.instructure.com/courses/6331/files?preview=1351450)]
 
 #### Wed 3/30  
 - Read: David Bamman, "Born-Literary Natural Language Processing," Debates in Digital Humanities (2020
