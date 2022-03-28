@@ -14,3 +14,6 @@ folium
 geopy
 nltk
 text-matcher
+spacy
+en_core_web_sm
+booknlp

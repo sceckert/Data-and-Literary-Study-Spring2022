@@ -141,10 +141,11 @@ permalink: /schedule/
 - Read: Matthew Wilkens, “The Geographic Imagination of Civil War-Era American Fiction,” *American Literary History* 25, no. 4 (December 1, 2013): 803–40, [[Canvas PDF](https://princeton.instructure.com/courses/6331/files?preview=1351450)]
 
 #### Wed 3/30  
-- Read: David Bamman, "Born-Literary Natural Language Processing," Debates in Digital Humanities (2020
-- Please read [the documentation for David Bamman’s BookNLP]()
-- Due: Research Exercise 9
-- Practicum: supervised machine learning; NLTK and Named Entity Recognition
+- Read: David Bamman, ["LitBank: Born-Literary Natural Language Processing,"](https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/Bamman_DH_Debates_CompHum.pdf) Computational Humanities (2020)
+- Please read [the documentation for David Bamman’s BookNLP](https://github.com/booknlp/booknlp#booknlp)
+	- Optional: Scott Weingart, ["Argument Clinic"](https://scottbot.net/argument-clinic/) (2017)
+- Due: [Research Exercise 9](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week9/research-exercise-9.ipynb) |  [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week9/research-exercise-9.ipynb)
+- Practicum: supervised machine learning; NLP and Named Entity Recognition, geocoding
 
 
 ## Week 10: Machine Reading the History of Literary Studies
