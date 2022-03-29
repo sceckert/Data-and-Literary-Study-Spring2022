@@ -10,9 +10,13 @@ little_mallet_wrapper
 altair
 bokeh
 bs4
+requests
 folium
 geopy
 nltk
 text-matcher
+git+https://github.com/maria-antoniak/little-mallet-wrapper.git
+sklearn
 spacy
+regex
 booknlp
