@@ -145,7 +145,7 @@ permalink: /schedule/
 - Please read [the documentation for David Bamman’s BookNLP](https://github.com/booknlp/booknlp#booknlp)
 	- Optional: Scott Weingart, ["Argument Clinic"](https://scottbot.net/argument-clinic/) (2017)
 - Due: [Research Exercise 9](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week9/research-exercise-9.ipynb) |  [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week9/research-exercise-9.ipynb)
-- Practicum: supervised machine learning; NLP and Named Entity Recognition, geocoding
+- Practicum: [supervised machine learning: Named Entity Recognition, geocoding](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week9/in-class-practicum-wk9-wed.ipynb)
 
 
 ## Week 10: Machine Reading the History of Literary Studies
