@@ -150,25 +150,32 @@ permalink: /schedule/
 
 ## Week 10: Machine Reading the History of Literary Studies
 #### Mon 4/4 
-- Read: David Blei, “Probabilistic Topic Modeling” (2012)
-- Read: Andrew Goldstone and Ted Underwood, “What can topic models of PMLA teach us about the history of literary scholarship?” *ARCADE*. (2012) 
-- The “Middlematch” project
+- Read: Lisa Rhody, [“Topic Modeling and Figurative Language”](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/) (2012) for an overview of topic modeling
+- Read: Andrew Goldstone and Ted Underwood, [“What can topic models of PMLA teach us about the history of literary scholarship?”](https://arcade.stanford.edu/blogs/what-can-topic-models-pmla-teach-us-about-history-literary-scholarship) *ARCADE*. (2012)  (Completely optional: Goldstone and Underwood also have a longer published article on this research here: ["The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us" ](https://muse-jhu-edu.ezproxy.princeton.edu/article/558875)(2014)
+- Read: Lauren Klein [" Dimensions of Scale: Invisible Labor, Editorial Work, and the Future of Quantitative Literary Studies"](https://www-cambridge-org.ezproxy.princeton.edu/core/services/aop-cambridge-core/content/view/9BB30779EA9C9CF7AF176E7FEF12F484/S003081290012752Xa.pdf/dimensions-of-scale-invisible-labor-editorial-work-and-the-future-of-quantitative-literary-studies.pdf) (2020)
+	- Optional reading: Benjamin Schmidt, ["When you have MALLET, everything looks like a nail"](http://sappingattention.blogspot.com/2012/11/when-you-have-mallet-everything-looks.html) (2012) 
+- Explore
+	-  [*Signs @40: Feminist Scholarship Through Four Decades*](http://signsat40.signsjournal.org/)
+	- Andrew Goldstone's [dfr-browser](http://agoldst.github.io/dfr-browser/) and [Topics in *PMLA* browser](http://agoldst.github.io/dfr-browser/demo/)
 
 
 #### Wed 4/6 
-- Read: Miriam Posner, “Very basic strategies for interpreting results from the Topic Modeling Tool” (2012)
-- Read: Lisa Rhody, “Topic Modeling and Figurative Language” (2012)
-- Practicum: Topic modeling and unsupervised machine learning
-
-DUE: Final Project Proposal
+- Read: Miriam Posner, [“Very basic strategies for interpreting results from the Topic Modeling Tool”](https://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/) (2012)
+- Read: David Blei, [“Probabilistic Topic Modeling”](https://www.cs.columbia.edu/~blei/papers/Blei2012.pdf) (2012)
+- In-class Practicum: [Topic modeling and unsupervised machine learning](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week10/introduction-to-topic-modeling.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week10/introduction-to-topic-modeling.ipynb)
+	- (PS. Make sure you've completed the [topic modeling set up instructions](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week10/topic-modeling-set-up-instructions.md) in advance)
+- DUE: [Final Project Proposal](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_assignments/final-project-proposal-assignment-prompt.md)
 
 ## Week 11: Visualizing Literary Data
 #### Mon 4/11 
 - Read: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings” (2014)
 - Read: Anne DeWitt, “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press” (2015)
-- Practicum: Network visualizations in Python and Cytoscape 
+
 
 #### Wed 4/13 
+- Practicum: Visualizing literary data 
+- Due:  No research exercise due: work on your final project!
+
 
 
 ## Week 12: Data Futures
@@ -179,8 +186,9 @@ DUE: Final Project Proposal
 
 #### Wed 4/20 
 
-- FINAL PROJECT PRESENTATIONS
-- 
+- [FINAL PROJECT PRESENTATIONS]
+
+
 Final Project Due Dean’s Date (5/3)
 
 
