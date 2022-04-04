@@ -36,11 +36,23 @@ I've update three additional files that might be helpful in collecting and curat
 
 - Research Exercise #7: [Archives and Collections as Data](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week7/research-exercise-7.md)
 
+## From Archival Data to Machine-Actionable Data
+
+- Turning archival datas
+	- Matthew Lincoln's ["Tidy Humanities Data"](https://matthewlincoln.net/tidy-dh-data/tidy-dh-data.pdf) (2019)
+		- Karl W. Broman and Kara H. Woo give a similar set of principles for dataset curation in ["Data Organization in Spreadsheets"](https://www-tandfonline-com.ezproxy.princeton.edu/doi/full/10.1080/00031305.2017.1375989) (2018)
+- Slides from the Humanities Data Workshop Series walk you through how to *conceptualize*, *find*, and *structure* data. (The workshop on structuring humanities data gives more examples of how to structure data so that it's "tidy" or machine-actionable)
+	- [What is "Data" in theHumanities?](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_resources/2021-10-06-CDH-PRDS-Humanities-Data-Wkshp-1-What-is Data-in-the Humanities-slides.pdf)
+	- [Finding Humanities Data](2021-11-03-CDH-PRDS-Humanities-Data-Wkshp-2-Finding-Humanities-Data-slides.pdf)
+	- [Structuring Humanities Data](2021-12-01-CDH-PRDS-Humanities-Data-Wkshp-3-Structuring-Humanities-Data-slides.pdf)
+
 ## File-types and text encoding
 
 - [What is text encoding? XML, HTML](https://sceckert.github.io/presentations/slides/Data-Lit-wk5-mon.html#/)
 - [Character and file encoding](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/in-class-practicum-mon-wk5.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week5/in-class-practicum-mon-wk5.ipynb)
 	- [Reading and encoding OCR, XML](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/in-class-practicum-mon-wk5.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week5/in-class-practicum-mon-wk5.ipynb)
+
+
 
 ## Python and Pandas
 
