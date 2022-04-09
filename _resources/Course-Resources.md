@@ -42,7 +42,7 @@ I've update three additional files that might be helpful in collecting and curat
 	- Matthew Lincoln's ["Tidy Humanities Data"](https://matthewlincoln.net/tidy-dh-data/tidy-dh-data.pdf) (2019)
 		- Karl W. Broman and Kara H. Woo give a similar set of principles for dataset curation in ["Data Organization in Spreadsheets"](https://www-tandfonline-com.ezproxy.princeton.edu/doi/full/10.1080/00031305.2017.1375989) (2018)
 - Slides from the Humanities Data Workshop Series walk you through how to *conceptualize*, *find*, and *structure* data. (The workshop on structuring humanities data gives more examples of how to structure data so that it's "tidy" or machine-actionable)
-	- [What is "Data" in theHumanities?](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_resources/2021-10-06-CDH-PRDS-Humanities-Data-Wkshp-1-What-is Data-in-the Humanities-slides.pdf)
+	- [What is "Data" in the Humanities?](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_resources/2021-10-06-CDH-PRDS-Humanities-Data-Wkshp-1-What-is Data-in-the-Humanities-slides.pdf)
 	- [Finding Humanities Data](2021-11-03-CDH-PRDS-Humanities-Data-Wkshp-2-Finding-Humanities-Data-slides.pdf)
 	- [Structuring Humanities Data](2021-12-01-CDH-PRDS-Humanities-Data-Wkshp-3-Structuring-Humanities-Data-slides.pdf)
 
@@ -72,9 +72,11 @@ How to create and manipulate tabular data in a Pandas data frame
 	- [Columbia University Literature Humanitie Syllabus](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week5/research-exercise-5.md#2-columbia-universitys-literature-humanities-syllabus-1937-2020)
 - Research Exercise #6: [Anthologies as Data](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week6/research-exercise-6.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week6/research-exercise-6.ipynb)
 
+
+
 ## Advanced techniques for working with text files in Python and OpenRefine
 
-- [In class practicum on reading & writing text files, splitting up text files, reading all text files in a directory, output split text file as a series of new files](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week6/in-class-practicum-wk6-wed.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week6/in-class-practicum-wk6-wed.ipynb)
+- In class practicum on [reading & writing text files, splitting up text files, reading all text files in a directory, output split text file as a series of new files](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week6/in-class-practicum-wk6-wed.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week6/in-class-practicum-wk6-wed.ipynb)
 
 -  Research Exercise #8 [Collecting texts with OpenRefine](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week8/research-exercise-8.md)
 	-  [Quick tutorial on how to clean datasets with OpenRefine](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week6/preparing-for-webscraping-and-openrefine.md#using-openrefine)
@@ -83,6 +85,7 @@ How to create and manipulate tabular data in a Pandas data frame
 -  [Modeling reprinting and text-reuse with `text-matcher`](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week8/in-class-practicum-wk8-wed.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week8/in-class-practicum-wk8-wed.ipynb)
 
 - Research Exercise #9: [Text analysis: NLP, supervised machine learning Named Entity Recognition](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week9/research-exercise-9.ipynb) |  [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week9/research-exercise-9.ipynb)
+	- From Named Entity to original context: [Scripts for extracting original text around a named entity using character index positions](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/tree/main/_resources/scripts-for-extracting-substrings-from-index-characters.ipynb)
 
 
 - [Introduction to Topic Modeling](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week10/introduction-to-topic-modeling.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week10/introduction-to-topic-modeling.ipynb)
@@ -92,6 +95,7 @@ How to create and manipulate tabular data in a Pandas data frame
 	- Matthew Lavin,[ "Analyzing Documents with tf-idf"](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf) (2019)
 	- Zoë Wilkinson Saldaña, ["Sentiment Analysis for Exploratory Data Analysis"](https://programminghistorian.org/en/lessons/sentiment-analysis) (2018)
 	- Digital Research Institute (DRI), ["Introduction to Text Analysis with Python and NLTK""](https://github.com/DHRI-Curriculum/text-analysis) (2018)
+
 
 
 

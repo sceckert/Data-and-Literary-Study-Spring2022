@@ -168,8 +168,9 @@ permalink: /schedule/
 
 ## Week 11: Visualizing Literary Data
 #### Mon 4/11 
-- Read: Lauren Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings” (2014)
-- Read: Anne DeWitt, “Advances in the Visualization of Data: The Network of Genre in the Victorian Periodical Press” (2015)
+- Read: Lauren Klein, [“The Image of Absence: Archival Silence, Data Visualization, and James Hemings”](https://princeton.instructure.com/courses/6331/files?preview=1387953) (2014)
+- Read: Johanna Drucker, ["Humanities Approaches to Graphical Display"](https://princeton.instructure.com/courses/6331/files?preview=1387952) (2011)
+
 
 
 #### Wed 4/13 
