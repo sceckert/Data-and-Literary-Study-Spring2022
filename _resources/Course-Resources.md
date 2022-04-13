@@ -42,9 +42,9 @@ I've update three additional files that might be helpful in collecting and curat
 	- Matthew Lincoln's ["Tidy Humanities Data"](https://matthewlincoln.net/tidy-dh-data/tidy-dh-data.pdf) (2019)
 		- Karl W. Broman and Kara H. Woo give a similar set of principles for dataset curation in ["Data Organization in Spreadsheets"](https://www-tandfonline-com.ezproxy.princeton.edu/doi/full/10.1080/00031305.2017.1375989) (2018)
 - Slides from the Humanities Data Workshop Series walk you through how to *conceptualize*, *find*, and *structure* data. (The workshop on structuring humanities data gives more examples of how to structure data so that it's "tidy" or machine-actionable)
-	- [What is "Data" in the Humanities?](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_resources/2021-10-06-CDH-PRDS-Humanities-Data-Wkshp-1-What-is Data-in-the-Humanities-slides.pdf)
-	- [Finding Humanities Data](2021-11-03-CDH-PRDS-Humanities-Data-Wkshp-2-Finding-Humanities-Data-slides.pdf)
-	- [Structuring Humanities Data](2021-12-01-CDH-PRDS-Humanities-Data-Wkshp-3-Structuring-Humanities-Data-slides.pdf)
+	- [What is "Data" in the Humanities?](https://princeton.instructure.com/courses/6331/files?preview=1397415)
+	- [Finding Humanities Data](https://princeton.instructure.com/courses/6331/files?preview=1397416)
+	- [Structuring Humanities Data](https://princeton.instructure.com/courses/6331/files?preview=1397417)
 
 ## File-types and text encoding
 
@@ -103,13 +103,17 @@ How to create and manipulate tabular data in a Pandas data frame
 ## Data Visualization
 
 - Basic data visualization
-	- Making a simple data visualization
-	- Making simple bar and pie charts using pandas:
-	- Making simple scatter plots (3 examples)
-	- Making a line plot
+	- [Making a simple data visualization](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week11/introduction-to-data-visualization.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week11/introduction-to-data-visualization.ipynb)
+	- [Making simple bar and pie charts using pandas](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week11/introduction-to-data-visualization.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week11/introduction-to-data-visualization.ipynb)
+	- [Making a line plot](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week11/introduction-to-data-visualization.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week11/introduction-to-data-visualization.ipynb)
 - Mapping: [Geocoding](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week9/in-class-practicum-wk9-wed.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week9/in-class-practicum-wk9-wed.ipynb)
 -  Make a heat map to visualize topics in a set of texts -(Scroll down to the bottom): [Introduction to Topic Modeling](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week10/introduction-to-topic-modeling.ipynb) | [interactive version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week9/introduction-to-topic-modeling.ipynb) 
 - Make a series plot of topics over time - [Topic Model Time Series](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week10/topic-modeling-time-series.ipynb) | [interactive version](Topic Modeling Time Series: https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week10/topic-modeling-time-series.ipynb)
+- [Advanced Data Visualization with Altair](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week11/introduction-to-data-visualization.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week11/introduction-to-data-visualization.ipynb))
+	- Making a stacked, grouped bar chart
+	- Making an interactive visualization
+	- Saving an altar chart as an HTML file
+	- Making an interactive scatterplot
 
 The `plot()`  function in `pandas` has several basic plotting operations operations. Skim through the documentations to learn more about how to create the different kinds of visualizations: stacked bar charts, scatter plots, chart, etc: [https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 
