@@ -181,8 +181,10 @@ permalink: /schedule/
 
 ## Week 12: Data Futures
 #### Mon 4/18 
-- Read: Pascale Casanova, from The World Republic of Letters (2007)
-- Read: Aamir Mufti, “Orientalism and the Institution of World Literatures” (20210)
+- Read: Nan. Z. Da, ["The Computational Case against Computational Literary Studies"](https://princeton.instructure.com/courses/6331/files?preview=1402887) (2019)
+- Browse through the short responses to Da's piece in ["Computational Literary Studies: A *Critical Inquiry* Online Forum"](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/) (April 1-3, 2019) 
+	- Choose 2-3 responses to read.
+- Read: Miriam Posner, ["What's Next: The Radical, Unrealized Potential of Digital Humanities"](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357) (2016)
 
 
 #### Wed 4/20 
