@@ -176,6 +176,10 @@ permalink: /schedule/
 #### Wed 4/13 
 - Practicum: [Visualizing literary data](https://github.com/sceckert/Data-and-Literary-Study-Spring2022/blob/main/_week11/introduction-to-data-visualization.ipynb) | [interactive cloud version](https://mybinder.org/v2/gh/sceckert/Data-and-Literary-Study-Spring2022/main?urlpath=lab/tree/_week11/introduction-to-data-visualization.ipynb)
 - Due:  No research exercise due: work on your final project!
+- In class
+	- Stephanie Posavec's [Writing Without Words](http://www.stefanieposavec.com/writing-without-words/) visualization of Jack Kerouac's *On the Road* 
+	- Ben Fr's ["The Preservation of Favoured Traces"](https://fathom.info/traces/) visualization of 6 editions of Charles Darwin's *On the Origin of Species* 
+	- Lincoln Mullen's essay ["Isn't it Obvious?"](https://lincolnmullen.com/blog/isnt-it-obvious/)
 
 
 
